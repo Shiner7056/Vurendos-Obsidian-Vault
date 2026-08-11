@@ -18,10 +18,10 @@
 		{"id":"47cbd58ac701ec2b","type":"text","text":"Famis","x":143,"y":-156,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"d9fdaa87ccd82e8e","type":"text","text":"#Kalyth","x":-324,"y":-544,"width":250,"height":60},
 		{"id":"1643a1afefc1408d","type":"file","file":"PNG's/Famis.png","x":-257,"y":-283,"width":195,"height":314,"color":"#ffffff"},
-		{"id":"127344fdc517b6e4","type":"text","text":"Notes","x":576,"y":49,"width":250,"height":60,"color":"#484141"},
-		{"id":"709d3b7c1338339a","type":"text","text":"Note","x":143,"y":48,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"f053e5c921039ef1","type":"text","text":"Gods are making their moves = Vindicta wanted to assemble the greatest celestials of the upper plains for a meeting (On the Ran'tal)\n\nMedicus promise to Kalyth \"Keep learning about Ran'tal and to keep my faith in Famis\"\n\n(The God's don't know anything on the Ran'tal or the Crimson Legion)","x":476,"y":-366,"width":450,"height":275,"color":"#484141"},
-		{"id":"a32271e7aa7130d6","type":"file","file":"PNG's/Medicus.png","x":1503,"y":-121,"width":309,"height":400,"color":"#484141"}
+		{"id":"a32271e7aa7130d6","type":"file","file":"PNG's/Medicus.png","x":1503,"y":-121,"width":309,"height":400,"color":"#484141"},
+		{"id":"127344fdc517b6e4","type":"text","text":"Notes","x":576,"y":49,"width":250,"height":60,"color":"#484141"},
+		{"id":"709d3b7c1338339a","type":"text","text":"Note","x":143,"y":48,"width":250,"height":60,"color":"#ffffff"}
 	],
 	"edges":[
 		{"id":"6ba63a13e11f3193","fromNode":"01ebfca7fb515e5f","fromSide":"top","toNode":"238a94780ef13717","toSide":"bottom"},
