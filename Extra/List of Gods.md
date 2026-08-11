@@ -1,0 +1,50 @@
+#Extra 
+- Lifara, Goddess of Nature, Detalos' Wife
+- Detalos, God of Death, Lifaria's Husband
+- Caloria, Goddess of Summer & Duty
+- Nix, God of Winter
+- Autorus, God of Autumn & Generosity, Sprisara's Husband
+- Sprisara, Goddess of Spring & Joy, Autorus' Wife
+- Amare, Goddess of Love (Often considered the Goddess of Beauty), Sprisara and Autorus' daughter
+- Nuptias, Goddess of Children, Weddings, & Fertility, Sprisara and Autorus' daughter
+- Medicus, God of Medicine, Crows, Science, Alchemy, Soft boy (I LOVE HIM), Son of Lifaria and Detalos
+- Aeger, God of Disease, Insects, Decay, and Rot, Son of Lifaria and Detalos, Fallaxa's Husband (Totally being cheated on)
+- Sulpharia, Goddess of Flame
+- Aquan, Goddess of Water
+- Ventus, God of Air
+- Grantoren, God of Earth
+- Arcanora, Goddess of Magic, Allegedly married to Mythirus or Mytharia
+- Mythirus or Mytharia, Deity of Myths and/or Secrets, Allegedly married to Arcanora, Might not exist
+- Histolarin, God of Knowedlge, History, Intellect, and Books, Son of Arcanora
+- Stellara, Goddess of the Sun and Work
+- Lunaria, Goddess of the Moon, Alcohol, Celebrations, Parties, Festivities, and Music, Local Alcoholic
+- Tempus, God of Time
+- Fallaxa, Goddess of Lies, Snakes, and Poisons, Aeger's Wife (Totally cheating on him)
+- Vermiculus, God of Blood, Rituals, Pacts, and Rites
+- Judex, God of Law
+- Vindicta, Goddess of Justice, Honor, and Glory
+- Donadi, Goddess of Selflessness
+- Zelies, Goddess of Mercy, Former Mortal
+- Lucifier, God of Hell, Very Dead, Lillith's Husband
+- Caedes, God of Slaughter and War, WWWWWAAAAGGGGGHHHHHH
+- Aurum, God of Greed and Dragons
+- Ira, Goddess of Anger, Savagery, and Stubornness
+- Meretrix, Goddess of Desire, Manager of Wishes
+- Lillith, Goddess of Hell, Widowed (Lucifier's Wife), Former Mortal
+- Furta, Goddess of Trickery and the Feywild
+- Malleasa, Goddess of the Forge
+- Custos, God of Protection, Steel, and Warforged, Made by Malleasa
+- Spesa, Goddess of Hope, Emotions, and Souls
+- Ludus, God of Luck, Gambling, and Risk
+- Oculon, God of the Unknown, Watching, Eyes, and Insanity, Lives in the Far Realm, Local Eldritch horror
+- Somnium, God of Dreams and Prophecies
+- Famis, Goddess of Despair, Starvation, Devestation, Ash, and The Cycle, Fallaxa and Aeger's Daughter, Actually nice
+- Malum, God of Darkness, Chaos, Madness, Shadows, In the box
+- Voreldin, God of the Astral Plane
+- Dimitte, Goddess of Forgiveness, Redemption, Faith, and Wisdom
+- Segnities, Goddess of Sleep, Sloth, and Laziness, Sleeping 24/7
+- Verberari, Goddess of Pain and Torture
+- Somnia, Goddess of Nightmares, Fear, and Motivation
+- Umbrae, Goddess of Shadows, Darkness, The Underdark, Caves, and Demons, Malums replacement, Former Mortal
+- Zorranna, whoever that is
+- Nihil, God of Loss, Corruption, Folly, Doom, and the Shadowfell
