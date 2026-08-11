@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"838782e8f26b084f","type":"file","file":"PNG's/Old world.png","x":-640,"y":-500,"width":1260,"height":945},
+		{"id":"955968d05d6aaabf","type":"text","text":"[[New World.canvas]]","x":-1120,"y":-57,"width":250,"height":60},
+		{"id":"090eed61937c8e7c","x":-1120,"y":-240,"width":250,"height":60,"type":"text","text":"#Rantal"}
+	],
+	"edges":[
+		{"id":"2d2ce146120f0731","fromNode":"838782e8f26b084f","fromSide":"left","toNode":"955968d05d6aaabf","toSide":"right"},
+		{"id":"8ccbef85c6502408","fromNode":"955968d05d6aaabf","fromSide":"top","toNode":"090eed61937c8e7c","toSide":"bottom"}
+	]
+}

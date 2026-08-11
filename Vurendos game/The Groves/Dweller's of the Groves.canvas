@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"3ab32f140b08d51d","type":"text","text":"[[Groves Infomation]]","x":-118,"y":-142,"width":250,"height":60},
+		{"id":"162fd18ddde38358","type":"text","text":"#Groves","x":-119,"y":-348,"width":250,"height":60},
+		{"id":"a19bd30910466726","type":"text","text":"[[Var'vella Groves]]","x":-119,"y":40,"width":250,"height":60,"color":"5"},
+		{"id":"fcfc05be88cabaca","type":"text","text":"Maythi","x":-119,"y":197,"width":250,"height":60,"color":"5"},
+		{"id":"e84f3c54bcd60667","type":"text","text":"Watches over the natures of the grove, marshes, planes of  Var'vella. She is a representative between the mages of Aq'lar.","x":-674,"y":197,"width":370,"height":220,"color":"5"},
+		{"id":"d9138bf1df09e7fa","type":"text","text":"Notes","x":-614,"y":495,"width":250,"height":60,"color":"5"},
+		{"id":"5cb5d667027e23f5","type":"file","file":"PNG's/Maythi.png","x":-53,"y":325,"width":289,"height":400,"color":"5"}
+	],
+	"edges":[
+		{"id":"b1e2afb14c720e52","fromNode":"fcfc05be88cabaca","fromSide":"top","toNode":"a19bd30910466726","toSide":"bottom"},
+		{"id":"d79f206cad9bce91","fromNode":"5cb5d667027e23f5","fromSide":"top","toNode":"fcfc05be88cabaca","toSide":"bottom"},
+		{"id":"37cd095abb35c9bb","fromNode":"5cb5d667027e23f5","fromSide":"left","toNode":"d9138bf1df09e7fa","toSide":"right"},
+		{"id":"8f87bc79991fae22","fromNode":"d9138bf1df09e7fa","fromSide":"top","toNode":"e84f3c54bcd60667","toSide":"bottom"},
+		{"id":"c2410ac0c05a60c8","fromNode":"3ab32f140b08d51d","fromSide":"top","toNode":"162fd18ddde38358","toSide":"bottom"}
+	]
+}

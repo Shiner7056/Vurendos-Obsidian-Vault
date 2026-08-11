@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"e7d3cf2b00a2624c","type":"file","file":"PNG's/Raven Rot.png","x":-780,"y":-150,"width":399,"height":301},
+		{"id":"4d9d2ac283c75bb6","type":"file","file":"PNG's/Raven Scared.png","x":-1200,"y":-580,"width":297,"height":400},
+		{"id":"70aa8ad9fa6ff562","type":"text","text":"[[Raven Rot]]","x":-160,"y":-29,"width":250,"height":60},
+		{"id":"d593978f085949c8","type":"text","text":"disease ","x":360,"y":-29,"width":250,"height":60},
+		{"id":"ba1993ad12e651ee","type":"text","text":"[[Curses.canvas]]","x":360,"y":-260,"width":250,"height":60},
+		{"id":"f350e814926572a9","type":"text","text":"#Disease","x":360,"y":151,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f445b24ee2bf7930","fromNode":"70aa8ad9fa6ff562","fromSide":"left","toNode":"e7d3cf2b00a2624c","toSide":"right"},
+		{"id":"7e5166da64880cc5","fromNode":"e7d3cf2b00a2624c","fromSide":"left","toNode":"4d9d2ac283c75bb6","toSide":"bottom"},
+		{"id":"58f4127751995f12","fromNode":"70aa8ad9fa6ff562","fromSide":"right","toNode":"d593978f085949c8","toSide":"left"},
+		{"id":"b0732d962f60672f","fromNode":"d593978f085949c8","fromSide":"top","toNode":"ba1993ad12e651ee","toSide":"bottom"},
+		{"id":"b8556982e8a9400c","fromNode":"d593978f085949c8","fromSide":"bottom","toNode":"f350e814926572a9","toSide":"top"}
+	]
+}

@@ -1,0 +1,107 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Rantal",
+      "color": {
+        "a": 1,
+        "rgb": 763339
+      }
+    },
+    {
+      "query": "Kalyth",
+      "color": {
+        "a": 1,
+        "rgb": 14966366
+      }
+    },
+    {
+      "query": "Disease",
+      "color": {
+        "a": 1,
+        "rgb": 4406589
+      }
+    },
+    {
+      "query": "Curses",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "Black Moon",
+      "color": {
+        "a": 1,
+        "rgb": 1707103
+      }
+    },
+    {
+      "query": "Groves",
+      "color": {
+        "a": 1,
+        "rgb": 485659
+      }
+    },
+    {
+      "query": "Extra",
+      "color": {
+        "a": 1,
+        "rgb": 14716815
+      }
+    },
+    {
+      "query": "Crimson Legion",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "Great Wyrm",
+      "color": {
+        "a": 1,
+        "rgb": 13214026
+      }
+    },
+    {
+      "query": "Malum",
+      "color": {
+        "a": 1,
+        "rgb": 9047773
+      }
+    },
+    {
+      "query": "primal",
+      "color": {
+        "a": 1,
+        "rgb": 1551198
+      }
+    },
+    {
+      "query": "BackstoryARC",
+      "color": {
+        "a": 1,
+        "rgb": 8750075
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.567708333333333,
+  "repelStrength": 14.1666666666667,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.564327257080052,
+  "close": true
+}

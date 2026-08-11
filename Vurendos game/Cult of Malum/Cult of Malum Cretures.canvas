@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"a1b7f8d1b7cd3e36","type":"text","text":"#Malum ","x":-125,"y":-146,"width":250,"height":60},
+		{"id":"cfd4642975fe6b56","type":"text","text":"[[Cult of Malum Infomation]]","x":-125,"y":40,"width":250,"height":60},
+		{"id":"8e7e476ca04c1a08","type":"text","text":"Esther is a member of the cult on Malum currently working in the Underdark to uncover the secrets the Ran'tal hold in their tombs\nKalyth gave a sending stone to ","x":-1131,"y":743,"width":320,"height":152,"color":"6"},
+		{"id":"c54bb66e618f2013","type":"text","text":"Notes","x":-1096,"y":1045,"width":250,"height":60,"color":"6"},
+		{"id":"53f1939c20a4d026","type":"text","text":"The Magister is leading the expedition into the ruins organising both the Drow and the members of Malum into two different teams that explore different sections of the ruin at the same time.","x":-971,"y":1392,"width":432,"height":123,"color":"6"},
+		{"id":"cf7f93df8fdfba80","type":"text","text":"Esther","x":-664,"y":1045,"width":250,"height":60,"color":"6"},
+		{"id":"6a3c2774be18d4aa","type":"text","text":"Notes","x":-471,"y":1423,"width":250,"height":60,"color":"6"},
+		{"id":"690eb3f9145d0fea","type":"file","file":"PNG's/Cult of Malum Cultist.png","x":-302,"y":990,"width":162,"height":170,"color":"6"},
+		{"id":"3a98ef3ebd9fd05f","type":"file","file":"PNG's/Cult of Malum Cultist.png","x":-88,"y":810,"width":162,"height":170,"color":"6"},
+		{"id":"4c875a1c30309436","type":"text","text":"Unnamed Magister","x":-88,"y":1423,"width":250,"height":60,"color":"6"},
+		{"id":"905ecfc7840911ad","type":"text","text":"Cult of Malum, NPC's","x":249,"y":1045,"width":250,"height":60,"color":"6"},
+		{"id":"3f4f11b0323230ee","type":"text","text":"Cult of malum","x":684,"y":625,"width":250,"height":60,"color":"6"},
+		{"id":"73fb5e7a37dcbcee","type":"file","file":"PNG's/Cult of Malum Magister.png","x":-74,"y":531,"width":148,"height":248,"color":"6"},
+		{"id":"525d0c0a227d8a3c","type":"file","file":"PNG's/Cult of Malum Magister.png","x":300,"y":1327,"width":148,"height":248,"color":"6"},
+		{"id":"8d3a7e10cc43a5d4","type":"file","file":"PNG's/Cult of Malum Warrior.png","x":-91,"y":320,"width":165,"height":170,"color":"6"},
+		{"id":"f56cf70b0e22d8db","type":"text","text":"[[Kalyth Related NPC's.canvas]]","x":-1096,"y":1240,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"85b9950aa864d9bc","fromNode":"cfd4642975fe6b56","fromSide":"top","toNode":"a1b7f8d1b7cd3e36","toSide":"bottom"},
+		{"id":"bfc7b83a727130ab","fromNode":"905ecfc7840911ad","fromSide":"bottom","toNode":"525d0c0a227d8a3c","toSide":"top"},
+		{"id":"11f9dafa4a47d0f3","fromNode":"905ecfc7840911ad","fromSide":"left","toNode":"690eb3f9145d0fea","toSide":"right"},
+		{"id":"474f9b6bb0da821d","fromNode":"3f4f11b0323230ee","fromSide":"bottom","toNode":"905ecfc7840911ad","toSide":"top"},
+		{"id":"0118c1dd96f02624","fromNode":"3f4f11b0323230ee","fromSide":"left","toNode":"3a98ef3ebd9fd05f","toSide":"right"},
+		{"id":"3e0fbc7effe832ae","fromNode":"3f4f11b0323230ee","fromSide":"left","toNode":"73fb5e7a37dcbcee","toSide":"right"},
+		{"id":"35b8c6ca7e08411b","fromNode":"4c875a1c30309436","fromSide":"left","toNode":"6a3c2774be18d4aa","toSide":"right"},
+		{"id":"2e371f97cdd68614","fromNode":"525d0c0a227d8a3c","fromSide":"left","toNode":"4c875a1c30309436","toSide":"right"},
+		{"id":"d95ee5f1e5951739","fromNode":"c54bb66e618f2013","fromSide":"top","toNode":"8e7e476ca04c1a08","toSide":"bottom"},
+		{"id":"7aaec9143b9743e5","fromNode":"cf7f93df8fdfba80","fromSide":"left","toNode":"c54bb66e618f2013","toSide":"right"},
+		{"id":"e4ae1bc41660166d","fromNode":"690eb3f9145d0fea","fromSide":"left","toNode":"cf7f93df8fdfba80","toSide":"right"},
+		{"id":"0dd42c077da5f981","fromNode":"6a3c2774be18d4aa","fromSide":"left","toNode":"53f1939c20a4d026","toSide":"right"},
+		{"id":"913d9f3de2dfec1a","fromNode":"3f4f11b0323230ee","fromSide":"left","toNode":"8d3a7e10cc43a5d4","toSide":"right"},
+		{"id":"8a1379f5ecf9d518","fromNode":"c54bb66e618f2013","fromSide":"bottom","toNode":"f56cf70b0e22d8db","toSide":"top"}
+	]
+}

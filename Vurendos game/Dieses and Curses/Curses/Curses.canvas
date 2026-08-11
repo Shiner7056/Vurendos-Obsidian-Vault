@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"3595ea3022cbb58e","type":"text","text":"Curses","x":-40,"y":-40,"width":250,"height":60},
+		{"id":"6f323d08ca512524","type":"text","text":"[[disease.canvas]]","x":-40,"y":-220,"width":250,"height":60},
+		{"id":"2db6f10c91356e24","type":"text","text":"#Curses","x":-40,"y":140,"width":250,"height":60},
+		{"id":"086a0de3f1b50cf6","x":580,"y":-40,"width":250,"height":60,"type":"text","text":"[[Primal Curse]]"}
+	],
+	"edges":[
+		{"id":"d57403bc28f86c84","fromNode":"3595ea3022cbb58e","fromSide":"top","toNode":"6f323d08ca512524","toSide":"bottom"},
+		{"id":"976964647239ff74","fromNode":"3595ea3022cbb58e","fromSide":"bottom","toNode":"2db6f10c91356e24","toSide":"top"},
+		{"id":"f83109452c501168","fromNode":"3595ea3022cbb58e","fromSide":"right","toNode":"086a0de3f1b50cf6","toSide":"left"}
+	]
+}

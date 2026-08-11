@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"50c5100a05d5037b","type":"file","file":"PNG's/new world.png","x":-680,"y":-480,"width":1280,"height":960},
+		{"id":"da8b7cd6a09525ce","type":"text","text":"[[Old World.canvas]]","x":-1120,"y":-30,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"b34bf2c28b9980db","fromNode":"50c5100a05d5037b","fromSide":"left","toNode":"da8b7cd6a09525ce","toSide":"right"}
+	]
+}

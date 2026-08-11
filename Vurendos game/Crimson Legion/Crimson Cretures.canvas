@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"4c761cf8b7e22a4e","type":"text","text":"Crimson Cretures #Crimson-Legion","x":-54,"y":-66,"width":250,"height":60,"color":"1"},
+		{"id":"6ea41ece32c201f5","type":"file","file":"PNG's/Crimson Webspinner.png","x":-760,"y":-593,"width":400,"height":247,"color":"1"},
+		{"id":"11ac7e5ae8be9701","type":"file","file":"PNG's/Crimson Remnant.png","x":-760,"y":60,"width":344,"height":400,"color":"1"},
+		{"id":"ada5490e185015fd","type":"file","file":"PNG's/Crimson Haunter.png","x":422,"y":99,"width":400,"height":361,"color":"1"},
+		{"id":"30d23afda9afb81c","type":"file","file":"PNG's/Crimson Plaguemancer.png","x":538,"y":-593,"width":284,"height":400,"color":"1"},
+		{"id":"9958b87fd17a1206","type":"file","file":"PNG's/Face of Dementing.png","x":-7,"y":-620,"width":157,"height":399,"color":"1"},
+		{"id":"f3621988bf4e60ec","type":"file","file":"PNG's/Face of Torment.png","x":-11,"y":160,"width":161,"height":400,"color":"1"},
+		{"id":"2453189ebc9b9f42","type":"file","file":"PNG's/Tal'krizzar, the Crimson Predator.png","x":1440,"y":-746,"width":317,"height":400,"color":"1"},
+		{"id":"c8e4a15355e56bc1","type":"text","text":"He knows all, from his words. But refuses to believe that the Ran'tal are still alive somewhere.","x":1920,"y":-598,"width":359,"height":105,"color":"1"},
+		{"id":"818bc0cbd80c5d4c","type":"text","text":"Saying before it fizzled away: \"YOUR TITANS WILL NOT SAVE YOU UNLIKE _LAST_ TIME, THE LIGHT, THE DARK, THE INBETWEEN- THEY WILL NOT SAVE YOU AS THEY DID IN ANCIENT TIMES. YOU WILL ALL DIE AND DIE, YOUR CIVILIZATION WILL BE WIPED OUT AND WE THE CRIMSON LEGION WILL RETURN\"","x":2480,"y":-622,"width":601,"height":153,"color":"1"},
+		{"id":"78f092cd24d40915","type":"text","text":"[[Crimson Legion Spell]]","x":553,"y":-812,"width":250,"height":60,"color":"1"},
+		{"id":"e111b680cbc13e6a","type":"text","text":"[[Underdark Ruins]]","x":2657,"y":-784,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"3fe01338129a58fd","fromNode":"4c761cf8b7e22a4e","fromSide":"left","toNode":"6ea41ece32c201f5","toSide":"right"},
+		{"id":"8de08b12c244804b","fromNode":"4c761cf8b7e22a4e","fromSide":"left","toNode":"11ac7e5ae8be9701","toSide":"right"},
+		{"id":"6115a8c697075f2b","fromNode":"4c761cf8b7e22a4e","fromSide":"right","toNode":"ada5490e185015fd","toSide":"left"},
+		{"id":"e6800539db919984","fromNode":"4c761cf8b7e22a4e","fromSide":"right","toNode":"30d23afda9afb81c","toSide":"left"},
+		{"id":"c6e21960aa5eabbe","fromNode":"4c761cf8b7e22a4e","fromSide":"top","toNode":"9958b87fd17a1206","toSide":"bottom"},
+		{"id":"953f02ef525855b5","fromNode":"4c761cf8b7e22a4e","fromSide":"bottom","toNode":"f3621988bf4e60ec","toSide":"top"},
+		{"id":"e2d8cd82617216ae","fromNode":"4c761cf8b7e22a4e","fromSide":"right","toNode":"2453189ebc9b9f42","toSide":"bottom"},
+		{"id":"3ab52b176fefa915","fromNode":"2453189ebc9b9f42","fromSide":"right","toNode":"c8e4a15355e56bc1","toSide":"left"},
+		{"id":"10675ebf01120a47","fromNode":"c8e4a15355e56bc1","fromSide":"right","toNode":"818bc0cbd80c5d4c","toSide":"left"},
+		{"id":"a41ca22a6c2e9355","fromNode":"30d23afda9afb81c","fromSide":"top","toNode":"78f092cd24d40915","toSide":"bottom"},
+		{"id":"b1de9b2692809115","fromNode":"818bc0cbd80c5d4c","fromSide":"top","toNode":"e111b680cbc13e6a","toSide":"bottom"}
+	]
+}

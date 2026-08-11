@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"04142d239f71d462","type":"file","file":"PNG's/Jaxen Vorn - Wraith Cleaver.png","x":450,"y":52,"width":262,"height":400,"color":"1"},
+		{"id":"f0181d9f99899950","type":"text","text":"Sylvia fears Jaxen","x":412,"y":-836,"width":332,"height":50,"color":"1"},
+		{"id":"561a66c270351a65","type":"text","text":"Jaxen Vorn","x":456,"y":-179,"width":250,"height":60,"color":"1"},
+		{"id":"fa9d8a8ceed9d861","type":"text","text":"Notes","x":456,"y":-595,"width":250,"height":60,"color":"1"},
+		{"id":"2783a406143339a1","type":"text","text":"Notes","x":-128,"y":-595,"width":250,"height":60,"color":"1"},
+		{"id":"b7d19963cc89c8d6","type":"text","text":"Arlina Korrin","x":-134,"y":-179,"width":250,"height":60,"color":"1"},
+		{"id":"103b8310883f1bc1","type":"text","text":"Arlina is a skilled assassin that usually kills at noble party's. She uses her charm or poison to lure them into private to complete her contracts","x":-169,"y":-999,"width":332,"height":153,"color":"1"},
+		{"id":"8609416d12d6e36e","type":"text","text":"Jaxen is very skilled with a blade, his typical assassination is through ambushing his target where he uses said skills to overpower his opponent","x":412,"y":-999,"width":338,"height":130,"color":"1"},
+		{"id":"2c8ddc644d035518","type":"text","text":"Selka Malrix","x":-708,"y":-179,"width":250,"height":60,"color":"1"},
+		{"id":"ad85183d39194d58","type":"file","file":"PNG's/Selka Malrix - Silent Siren.png","x":-716,"y":52,"width":267,"height":400},
+		{"id":"5645191b8da7814e","type":"text","text":"Notes","x":-708,"y":-595,"width":250,"height":60,"color":"1"},
+		{"id":"b08e101cc0d93ee0","type":"text","text":"Sylvia wishes to save Arlina","x":-169,"y":-816,"width":332,"height":61,"color":"1"},
+		{"id":"0da2aa797c4c1cde","type":"text","text":"Selka is the typical assassin you would expect, sneak in sneak out and the target is dead. Rarely ever speaks.","x":-749,"y":-973,"width":332,"height":102,"color":"1"},
+		{"id":"e020102eb5a1b18a","type":"text","text":"[[BlackMoon Infomation]]","x":-128,"y":940,"width":250,"height":60,"color":"#4e0570"},
+		{"id":"c3d86e0a1c19a98e","type":"text","text":"Three mentors","x":-128,"y":581,"width":250,"height":60,"color":"1"},
+		{"id":"ed723c37f3d8b484","type":"file","file":"PNG's/Arlina Korrin - Dark Kiss.png","x":-128,"y":53,"width":238,"height":399,"color":"1"},
+		{"id":"3c8ff726579861ad","type":"text","text":"#BlackMoon","x":-128,"y":1260,"width":250,"height":60},
+		{"id":"08c3cfe3d993d43a","type":"file","file":"PNG's/Black Moon Assassin.png","x":800,"y":581,"width":400,"height":259},
+		{"id":"b1af56e63becb0ad","type":"file","file":"PNG's/Black Moon Master Assassin.png","x":867,"y":940,"width":267,"height":399}
+	],
+	"edges":[
+		{"id":"bbad22117526b1dd","fromNode":"04142d239f71d462","fromSide":"top","toNode":"561a66c270351a65","toSide":"bottom"},
+		{"id":"bb10d0b1114d1e5e","fromNode":"c3d86e0a1c19a98e","fromSide":"top","toNode":"04142d239f71d462","toSide":"bottom"},
+		{"id":"80e23bbd48ae0eab","fromNode":"f0181d9f99899950","fromSide":"top","toNode":"8609416d12d6e36e","toSide":"bottom"},
+		{"id":"d6750b2805c32521","fromNode":"fa9d8a8ceed9d861","fromSide":"top","toNode":"f0181d9f99899950","toSide":"bottom"},
+		{"id":"a9b32db5b4d85188","fromNode":"561a66c270351a65","fromSide":"top","toNode":"fa9d8a8ceed9d861","toSide":"bottom"},
+		{"id":"619d45ada8d968b1","fromNode":"2783a406143339a1","fromSide":"top","toNode":"b08e101cc0d93ee0","toSide":"bottom"},
+		{"id":"03b985bf8ae69de9","fromNode":"b7d19963cc89c8d6","fromSide":"top","toNode":"2783a406143339a1","toSide":"bottom"},
+		{"id":"720d8011dcf81278","fromNode":"ed723c37f3d8b484","fromSide":"top","toNode":"b7d19963cc89c8d6","toSide":"bottom"},
+		{"id":"08606e87e8ceaf24","fromNode":"b08e101cc0d93ee0","fromSide":"top","toNode":"103b8310883f1bc1","toSide":"bottom"},
+		{"id":"c672512b35ecf00b","fromNode":"2c8ddc644d035518","fromSide":"top","toNode":"5645191b8da7814e","toSide":"bottom"},
+		{"id":"f3906cc238530513","fromNode":"ad85183d39194d58","fromSide":"top","toNode":"2c8ddc644d035518","toSide":"bottom"},
+		{"id":"ab08125ebce57c4b","fromNode":"c3d86e0a1c19a98e","fromSide":"top","toNode":"ad85183d39194d58","toSide":"bottom"},
+		{"id":"59201f9b26ce1077","fromNode":"5645191b8da7814e","fromSide":"top","toNode":"0da2aa797c4c1cde","toSide":"bottom"},
+		{"id":"b05c4cbf93d81036","fromNode":"e020102eb5a1b18a","fromSide":"top","toNode":"c3d86e0a1c19a98e","toSide":"bottom"},
+		{"id":"3e728fbf32398988","fromNode":"c3d86e0a1c19a98e","fromSide":"top","toNode":"ed723c37f3d8b484","toSide":"bottom"},
+		{"id":"c3c80a45e130e6a7","fromNode":"e020102eb5a1b18a","fromSide":"bottom","toNode":"3c8ff726579861ad","toSide":"top"},
+		{"id":"1d92a81903131342","fromNode":"e020102eb5a1b18a","fromSide":"right","toNode":"08c3cfe3d993d43a","toSide":"left"},
+		{"id":"a6b83e8a6618e95a","fromNode":"e020102eb5a1b18a","fromSide":"right","toNode":"b1af56e63becb0ad","toSide":"left"}
+	]
+}

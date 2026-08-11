@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"7f7edd8df8b1cb42","type":"file","file":"PNG's/Queen Nixie Virette.png","x":-200,"y":-900,"width":280,"height":280},
+		{"id":"ec23fc3ef7807bd7","type":"text","text":"Queen Nixie Virette","x":200,"y":-790,"width":250,"height":60},
+		{"id":"a466103293c92ae9","type":"file","file":"PNG's/Ser Aldwin.png","x":-192,"y":-540,"width":264,"height":400},
+		{"id":"636143348e65cd4c","type":"text","text":"Ser Aldwin","x":200,"y":-370,"width":250,"height":60},
+		{"id":"19a444cd2dcc6dc1","type":"text","text":"[[Kalyths Backstory]]","x":200,"y":-590,"width":250,"height":60},
+		{"id":"de7037e5e612d972","type":"text","text":"Veltish Virette","x":1142,"y":-310,"width":250,"height":60},
+		{"id":"c892558199f7e54d","type":"file","file":"PNG's/Queen Veltish Virette.png","x":557,"y":-480,"width":267,"height":400},
+		{"id":"fb44fe31114a3b62","type":"file","file":"PNG's/Valrus Virette.png","x":524,"y":-1020,"width":300,"height":400},
+		{"id":"c9fcf615b3e54099","type":"text","text":"Valrus Virette\n","x":1126,"y":-850,"width":250,"height":60},
+		{"id":"a49a030b8c209656","type":"text","text":"#Kalyth","x":-560,"y":-590,"width":250,"height":60},
+		{"id":"8bd98eef519953fb","type":"text","text":"[[Kalyth Related NPC's.canvas]]","x":991,"y":-597,"width":250,"height":60},
+		{"id":"53cb4d3fb6fcc6d3","type":"text","text":"Extra art","x":-1680,"y":-590,"width":250,"height":60},
+		{"id":"5ac627fb391aa758","type":"text","text":"Spiritual weapon","x":-1680,"y":-1057,"width":250,"height":60},
+		{"id":"ed2c1744c23ecd77","type":"file","file":"PNG's/Spiritual weapon art.png","x":-1669,"y":-1600,"width":228,"height":399},
+		{"id":"f7c8ed3b298585d4","type":"text","text":"Kalyth's art","x":-1682,"y":-24,"width":250,"height":60},
+		{"id":"19074f8c5166a292","type":"file","file":"PNG's/Kalyth - Armour.png","x":-1200,"y":-194,"width":301,"height":400},
+		{"id":"263bb623382db5cd","type":"file","file":"PNG's/Kalyth - No Armour.png","x":-2280,"y":-194,"width":356,"height":399},
+		{"id":"6c23f6651d1f5650","type":"file","file":"PNG's/Kalyth - No Armour - Art Change.png","x":-2302,"y":480,"width":400,"height":400},
+		{"id":"2c4aeea9a5b33237","type":"text","text":"Changed to this art","x":-1682,"y":650,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e03abe88b229f6f7","fromNode":"7f7edd8df8b1cb42","fromSide":"right","toNode":"ec23fc3ef7807bd7","toSide":"left"},
+		{"id":"e6c3d74eff02b1fa","fromNode":"a466103293c92ae9","fromSide":"right","toNode":"636143348e65cd4c","toSide":"left"},
+		{"id":"88dc36ea2ef60956","fromNode":"fb44fe31114a3b62","fromSide":"right","toNode":"c9fcf615b3e54099","toSide":"left"},
+		{"id":"f3b387a2e2914f1b","fromNode":"c892558199f7e54d","fromSide":"right","toNode":"de7037e5e612d972","toSide":"left"},
+		{"id":"04de50c7c034acb8","fromNode":"fb44fe31114a3b62","fromSide":"bottom","toNode":"19a444cd2dcc6dc1","toSide":"right"},
+		{"id":"b309a1a3b4e45953","fromNode":"c892558199f7e54d","fromSide":"top","toNode":"19a444cd2dcc6dc1","toSide":"right"},
+		{"id":"74c8219ff80d4edc","fromNode":"636143348e65cd4c","fromSide":"top","toNode":"19a444cd2dcc6dc1","toSide":"bottom"},
+		{"id":"02fa11478d0a43ab","fromNode":"ec23fc3ef7807bd7","fromSide":"bottom","toNode":"19a444cd2dcc6dc1","toSide":"top"},
+		{"id":"6a551c576439bb08","fromNode":"19a444cd2dcc6dc1","fromSide":"left","toNode":"a49a030b8c209656","toSide":"right"},
+		{"id":"4784b6d1047480c9","fromNode":"19a444cd2dcc6dc1","fromSide":"right","toNode":"8bd98eef519953fb","toSide":"left"},
+		{"id":"fbb2acdc8abbb2b9","fromNode":"a49a030b8c209656","fromSide":"left","toNode":"53cb4d3fb6fcc6d3","toSide":"right"},
+		{"id":"399d45ebd6a0223e","fromNode":"53cb4d3fb6fcc6d3","fromSide":"top","toNode":"5ac627fb391aa758","toSide":"bottom"},
+		{"id":"b2f0a2985d47dbb8","fromNode":"5ac627fb391aa758","fromSide":"top","toNode":"ed2c1744c23ecd77","toSide":"bottom"},
+		{"id":"9eae8b8a4dd79d02","fromNode":"53cb4d3fb6fcc6d3","fromSide":"bottom","toNode":"f7c8ed3b298585d4","toSide":"top"},
+		{"id":"0d4867ef04a38af8","fromNode":"f7c8ed3b298585d4","fromSide":"left","toNode":"263bb623382db5cd","toSide":"right"},
+		{"id":"f62bc71fb4507117","fromNode":"f7c8ed3b298585d4","fromSide":"right","toNode":"19074f8c5166a292","toSide":"left"},
+		{"id":"5c151bce621e2943","fromNode":"263bb623382db5cd","fromSide":"bottom","toNode":"6c23f6651d1f5650","toSide":"top"},
+		{"id":"9d511d9ede76c1d4","fromNode":"6c23f6651d1f5650","fromSide":"right","toNode":"2c4aeea9a5b33237","toSide":"left"}
+	]
+}
