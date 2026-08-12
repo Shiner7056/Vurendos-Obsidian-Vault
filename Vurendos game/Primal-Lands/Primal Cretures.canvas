@@ -1,6 +1,8 @@
 {
 	"nodes":[
 		{"id":"ce181b9a5672f37c","type":"group","x":-2640,"y":-740,"width":1280,"height":1501,"color":"4","label":"Crokian's"},
+		{"id":"9917d597a5bd8363","type":"text","text":"Ku'kar - Seer","x":-2609,"y":590,"width":250,"height":60,"color":"3"},
+		{"id":"757cd52205efbffc","type":"text","text":"Knows of the Ran'tal - Agreed to guide us to the ruins\nSaw movement in one of the ruins - they wore loosely draped cloths and robes","x":-2260,"y":590,"width":595,"height":151,"color":"3"},
 		{"id":"a4ef41fc43e4fb4c","type":"text","text":"Notes","x":-2359,"y":486,"width":250,"height":60,"color":"3"},
 		{"id":"be4ccad2cac9a687","type":"text","text":"The Crokian's do not like the wood elves. They are equal in strengths to the Crokian's.","x":-1880,"y":-287,"width":435,"height":224,"color":"3"},
 		{"id":"ba89a0e72fc6d57d","type":"text","text":"Crokian's","x":-2228,"y":-205,"width":250,"height":60,"color":"3"},
@@ -9,9 +11,7 @@
 		{"id":"a57faf144abaeabe","type":"file","file":"PNG's/Crokain.png","x":-2103,"y":-700,"width":399,"height":299,"color":"3"},
 		{"id":"b827cd6edbe1a002","type":"file","file":"PNG's/Crokian Hunter.png","x":-2592,"y":-700,"width":400,"height":247,"color":"3"},
 		{"id":"0db1e03a1cf267fb","type":"text","text":"#Primal","x":-1004,"y":-221,"width":250,"height":60},
-		{"id":"636bc69f12b95377","type":"text","text":"[[Primal Infomation]]","x":-1004,"y":-16,"width":250,"height":60},
-		{"id":"9917d597a5bd8363","type":"text","text":"Ku'kar - Seer","x":-2609,"y":590,"width":250,"height":60,"color":"3"},
-		{"id":"757cd52205efbffc","type":"text","text":"Knows of the Ran'tal - Agreed to guide us to the ruins\nSaw movement in one of the ruins - they wore loosely draped cloths and robes","x":-2260,"y":590,"width":595,"height":151,"color":"3"}
+		{"id":"636bc69f12b95377","type":"text","text":"[[Primal Infomation]]","x":-1004,"y":-16,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"faf32c4947a5a491","fromNode":"0db1e03a1cf267fb","fromSide":"bottom","toNode":"636bc69f12b95377","toSide":"top"},
