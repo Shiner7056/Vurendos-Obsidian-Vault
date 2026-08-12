@@ -6,19 +6,19 @@
 		{"id":"fa9d8a8ceed9d861","type":"text","text":"Notes","x":456,"y":-595,"width":250,"height":60,"color":"1"},
 		{"id":"2783a406143339a1","type":"text","text":"Notes","x":-128,"y":-595,"width":250,"height":60,"color":"1"},
 		{"id":"b7d19963cc89c8d6","type":"text","text":"Arlina Korrin","x":-134,"y":-179,"width":250,"height":60,"color":"1"},
-		{"id":"103b8310883f1bc1","type":"text","text":"Arlina is a skilled assassin that usually kills at noble party's. She uses her charm or poison to lure them into private to complete her contracts","x":-169,"y":-999,"width":332,"height":153,"color":"1"},
 		{"id":"8609416d12d6e36e","type":"text","text":"Jaxen is very skilled with a blade, his typical assassination is through ambushing his target where he uses said skills to overpower his opponent","x":412,"y":-999,"width":338,"height":130,"color":"1"},
 		{"id":"2c8ddc644d035518","type":"text","text":"Selka Malrix","x":-708,"y":-179,"width":250,"height":60,"color":"1"},
 		{"id":"ad85183d39194d58","type":"file","file":"PNG's/Selka Malrix - Silent Siren.png","x":-716,"y":52,"width":267,"height":400},
 		{"id":"5645191b8da7814e","type":"text","text":"Notes","x":-708,"y":-595,"width":250,"height":60,"color":"1"},
-		{"id":"b08e101cc0d93ee0","type":"text","text":"Sylvia wishes to save Arlina","x":-169,"y":-816,"width":332,"height":61,"color":"1"},
 		{"id":"0da2aa797c4c1cde","type":"text","text":"Selka is the typical assassin you would expect, sneak in sneak out and the target is dead. Rarely ever speaks.","x":-749,"y":-973,"width":332,"height":102,"color":"1"},
 		{"id":"e020102eb5a1b18a","type":"text","text":"[[BlackMoon Infomation]]","x":-128,"y":940,"width":250,"height":60,"color":"#4e0570"},
 		{"id":"c3d86e0a1c19a98e","type":"text","text":"Three mentors","x":-128,"y":581,"width":250,"height":60,"color":"1"},
 		{"id":"ed723c37f3d8b484","type":"file","file":"PNG's/Arlina Korrin - Dark Kiss.png","x":-128,"y":53,"width":238,"height":399,"color":"1"},
 		{"id":"3c8ff726579861ad","type":"text","text":"#BlackMoon","x":-128,"y":1260,"width":250,"height":60},
 		{"id":"08c3cfe3d993d43a","type":"file","file":"PNG's/Black Moon Assassin.png","x":800,"y":581,"width":400,"height":259},
-		{"id":"b1af56e63becb0ad","type":"file","file":"PNG's/Black Moon Master Assassin.png","x":867,"y":940,"width":267,"height":399}
+		{"id":"b1af56e63becb0ad","type":"file","file":"PNG's/Black Moon Master Assassin.png","x":867,"y":940,"width":267,"height":399},
+		{"id":"103b8310883f1bc1","type":"text","text":"Arlina is a skilled assassin that usually kills at noble party's. She uses her charm or poison to lure them into private to complete her contracts","x":-169,"y":-1010,"width":332,"height":153,"color":"1"},
+		{"id":"b08e101cc0d93ee0","type":"text","text":"Sylvia wishes to save Arlina","x":-169,"y":-827,"width":332,"height":61,"color":"1"}
 	],
 	"edges":[
 		{"id":"bbad22117526b1dd","fromNode":"04142d239f71d462","fromSide":"top","toNode":"561a66c270351a65","toSide":"bottom"},
