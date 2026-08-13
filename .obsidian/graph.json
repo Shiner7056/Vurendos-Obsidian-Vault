@@ -8,87 +8,94 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "Rantal",
+      "query": "Extra",
       "color": {
         "a": 1,
-        "rgb": 763339
+        "rgb": 16711914
+      }
+    },
+    {
+      "query": "BackstoryArc",
+      "color": {
+        "a": 1,
+        "rgb": 1234402
       }
     },
     {
       "query": "Kalyth",
       "color": {
         "a": 1,
-        "rgb": 14966366
+        "rgb": 12472400
       }
     },
     {
-      "query": "Disease",
+      "query": "Powerup",
       "color": {
         "a": 1,
-        "rgb": 4406589
-      }
-    },
-    {
-      "query": "Curses",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "Black Moon",
-      "color": {
-        "a": 1,
-        "rgb": 1707103
-      }
-    },
-    {
-      "query": "Groves",
-      "color": {
-        "a": 1,
-        "rgb": 485659
-      }
-    },
-    {
-      "query": "Extra",
-      "color": {
-        "a": 1,
-        "rgb": 14716815
-      }
-    },
-    {
-      "query": "Crimson Legion",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "Great Wyrm",
-      "color": {
-        "a": 1,
-        "rgb": 13214026
+        "rgb": 37375
       }
     },
     {
       "query": "Malum",
       "color": {
         "a": 1,
-        "rgb": 9047773
+        "rgb": 5245297
       }
     },
     {
-      "query": "primal",
+      "query": "Diease",
       "color": {
         "a": 1,
-        "rgb": 1551198
+        "rgb": 4867397
       }
     },
     {
-      "query": "BackstoryARC",
+      "query": "Curses",
       "color": {
         "a": 1,
-        "rgb": 8750075
+        "rgb": 2775269
+      }
+    },
+    {
+      "query": "Rantal",
+      "color": {
+        "a": 1,
+        "rgb": 12858337
+      }
+    },
+    {
+      "query": "Crimson-Legion",
+      "color": {
+        "a": 1,
+        "rgb": 13831437
+      }
+    },
+    {
+      "query": "Primal",
+      "color": {
+        "a": 1,
+        "rgb": 9889310
+      }
+    },
+    {
+      "query": "Groves",
+      "color": {
+        "a": 1,
+        "rgb": 4902752
+      }
+    },
+    {
+      "query": "Great-Wyrms",
+      "color": {
+        "a": 1,
+        "rgb": 12685840
+      }
+    },
+    {
+      "query": "BlackMoon",
+      "color": {
+        "a": 1,
+        "rgb": 6684927
       }
     }
   ],
@@ -102,6 +109,6 @@
   "repelStrength": 14.1666666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.8854987945253879,
+  "scale": 0.5643272570800458,
   "close": true
 }
