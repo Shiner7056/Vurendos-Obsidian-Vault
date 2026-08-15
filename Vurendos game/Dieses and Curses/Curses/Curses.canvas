@@ -3,11 +3,15 @@
 		{"id":"3595ea3022cbb58e","type":"text","text":"Curses","x":-40,"y":-40,"width":250,"height":60},
 		{"id":"6f323d08ca512524","type":"text","text":"[[disease.canvas]]","x":-40,"y":-220,"width":250,"height":60},
 		{"id":"2db6f10c91356e24","type":"text","text":"#Curses","x":-40,"y":140,"width":250,"height":60},
-		{"id":"086a0de3f1b50cf6","x":580,"y":-40,"width":250,"height":60,"type":"text","text":"[[Primal Curse]]"}
+		{"id":"086a0de3f1b50cf6","type":"text","text":"[[Primal Curse]]","x":580,"y":-40,"width":250,"height":60},
+		{"id":"37ba9d15ae9d664c","type":"file","file":"PNG's/Festering Rage (Primal Curse).png","x":980,"y":-125,"width":225,"height":230},
+		{"id":"860b872440ea3da9","type":"file","file":"PNG's/Invasive Rage (Primal Curse).png","x":1360,"y":-125,"width":225,"height":230}
 	],
 	"edges":[
 		{"id":"d57403bc28f86c84","fromNode":"3595ea3022cbb58e","fromSide":"top","toNode":"6f323d08ca512524","toSide":"bottom"},
 		{"id":"976964647239ff74","fromNode":"3595ea3022cbb58e","fromSide":"bottom","toNode":"2db6f10c91356e24","toSide":"top"},
-		{"id":"f83109452c501168","fromNode":"3595ea3022cbb58e","fromSide":"right","toNode":"086a0de3f1b50cf6","toSide":"left"}
+		{"id":"f83109452c501168","fromNode":"3595ea3022cbb58e","fromSide":"right","toNode":"086a0de3f1b50cf6","toSide":"left"},
+		{"id":"630e35df9bd1d34b","fromNode":"086a0de3f1b50cf6","fromSide":"right","toNode":"37ba9d15ae9d664c","toSide":"left"},
+		{"id":"83bf6d3b45dea928","fromNode":"37ba9d15ae9d664c","fromSide":"right","toNode":"860b872440ea3da9","toSide":"left"}
 	]
 }
