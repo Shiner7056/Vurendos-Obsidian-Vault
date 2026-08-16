@@ -1,2 +1,5 @@
-#Player [[Player Related Characters.canvas]]
+#Player [[Invari, Related Characters.canvas]]
+
+![[Invari.png]]
+
 

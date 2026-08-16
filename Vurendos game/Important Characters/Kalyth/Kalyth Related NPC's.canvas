@@ -18,10 +18,11 @@
 		{"id":"47cbd58ac701ec2b","type":"text","text":"Famis","x":143,"y":-156,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"d9fdaa87ccd82e8e","type":"text","text":"#Kalyth","x":-324,"y":-544,"width":250,"height":60},
 		{"id":"1643a1afefc1408d","type":"file","file":"PNG's/Famis.png","x":-257,"y":-283,"width":195,"height":314,"color":"#ffffff"},
+		{"id":"f053e5c921039ef1","type":"text","text":"Gods are making their moves = Vindicta wanted to assemble the greatest celestials of the upper plains for a meeting (On the Ran'tal)\n\nMedicus promise to Kalyth \"Keep learning about Ran'tal and to keep my faith in Famis\"\n\n(The God's don't know anything on the Ran'tal or the Crimson Legion)","x":476,"y":-366,"width":450,"height":275,"color":"#484141"},
+		{"id":"a32271e7aa7130d6","type":"file","file":"PNG's/Medicus.png","x":1503,"y":-121,"width":309,"height":400,"color":"#484141"},
 		{"id":"127344fdc517b6e4","type":"text","text":"Notes","x":576,"y":49,"width":250,"height":60,"color":"#484141"},
 		{"id":"709d3b7c1338339a","type":"text","text":"Note","x":143,"y":48,"width":250,"height":60,"color":"#ffffff"},
-		{"id":"f053e5c921039ef1","type":"text","text":"Gods are making their moves = Vindicta wanted to assemble the greatest celestials of the upper plains for a meeting (On the Ran'tal)\n\nMedicus promise to Kalyth \"Keep learning about Ran'tal and to keep my faith in Famis\"\n\n(The God's don't know anything on the Ran'tal or the Crimson Legion)","x":476,"y":-366,"width":450,"height":275,"color":"#484141"},
-		{"id":"a32271e7aa7130d6","type":"file","file":"PNG's/Medicus.png","x":1503,"y":-121,"width":309,"height":400,"color":"#484141"}
+		{"id":"9c33be6329fee154","x":393,"y":251,"width":250,"height":60,"type":"text","text":"[[List of Gods]]"}
 	],
 	"edges":[
 		{"id":"6ba63a13e11f3193","fromNode":"01ebfca7fb515e5f","fromSide":"top","toNode":"238a94780ef13717","toSide":"bottom"},
@@ -42,6 +43,8 @@
 		{"id":"4709168d4c9bd1d0","fromNode":"b7901bbd994a4add","fromSide":"bottom","toNode":"60b87d0738084d42","toSide":"top"},
 		{"id":"66469fdf94c22236","fromNode":"60b87d0738084d42","fromSide":"bottom","toNode":"ef12173e9a1a05bc","toSide":"top"},
 		{"id":"b2c138b18cec6fa6","fromNode":"0af1fcf686df83fd","fromSide":"top","toNode":"7e0fefc7aec34aaa","toSide":"bottom"},
-		{"id":"8d514a5e84d600a0","fromNode":"0af1fcf686df83fd","fromSide":"bottom","toNode":"d9fdaa87ccd82e8e","toSide":"top"}
+		{"id":"8d514a5e84d600a0","fromNode":"0af1fcf686df83fd","fromSide":"bottom","toNode":"d9fdaa87ccd82e8e","toSide":"top"},
+		{"id":"a1e8054d2afa8cc6","fromNode":"709d3b7c1338339a","fromSide":"bottom","toNode":"9c33be6329fee154","toSide":"left"},
+		{"id":"f477f661b32c2ce6","fromNode":"127344fdc517b6e4","fromSide":"bottom","toNode":"9c33be6329fee154","toSide":"right"}
 	]
 }

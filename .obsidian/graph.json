@@ -99,7 +99,7 @@
       }
     },
     {
-      "query": "Players",
+      "query": "Player",
       "color": {
         "a": 1,
         "rgb": 13893887
@@ -116,6 +116,6 @@
   "repelStrength": 14.1666666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7069024726666281,
-  "close": true
+  "scale": 0.7069024726666268,
+  "close": false
 }

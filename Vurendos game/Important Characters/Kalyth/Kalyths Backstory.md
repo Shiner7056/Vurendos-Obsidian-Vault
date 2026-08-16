@@ -1,4 +1,4 @@
-#Kalyth
+#Kalyth #Player
 
 Kalyth Gareth Virette was born two years after the Great Plague War, into the royal line of Astelrath. From her earliest years, she was kept carefully sheltered from the outside world, always accompanied by one of the kingdom’s royal guards. For a long time, Kalyth believed this was simply how life was meant to be. When visitors came to the palace, she was kept out of sight, confined to her rooms and away from curious eyes.
 
