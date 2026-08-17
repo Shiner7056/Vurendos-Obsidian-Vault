@@ -1,1 +1,35 @@
-{}
+{
+	"nodes":[
+		{"id":"c7b914f11ffcf302","type":"file","file":"PNG's/Ya'kali.png","x":-1251,"y":-41,"width":275,"height":400},
+		{"id":"95b8ee8ae6aba9d9","type":"text","text":"Notes","x":-891,"y":-101,"width":250,"height":60},
+		{"id":"40fedc750285a631","type":"text","text":"Ya'Kali Valesong","x":-891,"y":129,"width":250,"height":60},
+		{"id":"e3d0af74d177ddd8","type":"text","text":"Sherasi Valesong","x":-711,"y":615,"width":250,"height":60},
+		{"id":"2a2881f6dbe3959a","type":"text","text":"Notes","x":-711,"y":760,"width":250,"height":60},
+		{"id":"32d7fa148c1375bb","type":"text","text":"Sherasi and Ya'Kali are Sylvia's parents. They are influential figures within Aq'lar. They are Marquess.\nSherasi is an elf and Ya'kali is a devil.\n\nYa'Kali is a middle ranked Devil within the hells","x":-766,"y":265,"width":455,"height":168},
+		{"id":"c3a97a462784c46a","type":"file","file":"PNG's/Sherasi.png","x":-1251,"y":445,"width":400,"height":400},
+		{"id":"9e908ef1a2a7f02a","type":"text","text":"Detective Ashwen","x":-929,"y":-1046,"width":250,"height":60,"color":"#000000"},
+		{"id":"f23ae601cc1141b0","type":"text","text":"Asked me to keep an eye on Invari and Sylvia as she suspects one of them is involved in the murders\n\nDetective Ashwen and Sylvia are in a relationship","x":-864,"y":-1280,"width":508,"height":204,"color":"#000000"},
+		{"id":"74a61ea0fd44fd0c","type":"text","text":"Detective in Astelrath","x":-735,"y":-866,"width":250,"height":60,"color":"#000000"},
+		{"id":"65021089e55be60f","type":"text","text":"Notes","x":-1238,"y":-1106,"width":250,"height":60,"color":"#000000"},
+		{"id":"4d626ed0651a02eb","type":"file","file":"PNG's/Detective Ashwen.png","x":-1129,"y":-908,"width":325,"height":400,"color":"#000000"},
+		{"id":"b33a9609dde5a5bc","type":"text","text":"Notes","x":720,"y":97,"width":250,"height":50},
+		{"id":"b3a9e767bc91a17d","type":"file","file":"PNG's/Zoranna.png","x":797,"y":360,"width":400,"height":400},
+		{"id":"5dd4458d5029ebce","type":"text","text":"Zoranna is Sylvia's deity - [[List of Gods]]","x":917,"y":-156,"width":346,"height":123},
+		{"id":"ce894c3e39bd45af","type":"text","text":"Zoranna","x":1021,"y":101,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"d4b2ca5ed46c95f4","fromNode":"4d626ed0651a02eb","fromSide":"top","toNode":"9e908ef1a2a7f02a","toSide":"left"},
+		{"id":"3d8360f9bc43297d","fromNode":"4d626ed0651a02eb","fromSide":"top","toNode":"65021089e55be60f","toSide":"bottom"},
+		{"id":"60ae1f718a700c55","fromNode":"b33a9609dde5a5bc","fromSide":"top","toNode":"5dd4458d5029ebce","toSide":"left"},
+		{"id":"12da719cd94194b0","fromNode":"b3a9e767bc91a17d","fromSide":"top","toNode":"b33a9609dde5a5bc","toSide":"bottom"},
+		{"id":"ed2f3576524b2087","fromNode":"c7b914f11ffcf302","fromSide":"right","toNode":"95b8ee8ae6aba9d9","toSide":"left"},
+		{"id":"93ab9cfe37b30efb","fromNode":"c7b914f11ffcf302","fromSide":"right","toNode":"40fedc750285a631","toSide":"left"},
+		{"id":"548972e65cfc90f1","fromNode":"95b8ee8ae6aba9d9","fromSide":"right","toNode":"32d7fa148c1375bb","toSide":"top"},
+		{"id":"9ff2791e1046e82f","fromNode":"9e908ef1a2a7f02a","fromSide":"bottom","toNode":"74a61ea0fd44fd0c","toSide":"top"},
+		{"id":"0e85dd065d13f6ad","fromNode":"b3a9e767bc91a17d","fromSide":"top","toNode":"ce894c3e39bd45af","toSide":"bottom"},
+		{"id":"b30a12c7aa025154","fromNode":"65021089e55be60f","fromSide":"right","toNode":"f23ae601cc1141b0","toSide":"left"},
+		{"id":"d584ba7bb770a97a","fromNode":"c3a97a462784c46a","fromSide":"right","toNode":"e3d0af74d177ddd8","toSide":"left"},
+		{"id":"e8fa0bfa4fa6e3d4","fromNode":"2a2881f6dbe3959a","fromSide":"right","toNode":"32d7fa148c1375bb","toSide":"bottom"},
+		{"id":"c5ef7557c01f7194","fromNode":"c3a97a462784c46a","fromSide":"right","toNode":"2a2881f6dbe3959a","toSide":"left"}
+	]
+}

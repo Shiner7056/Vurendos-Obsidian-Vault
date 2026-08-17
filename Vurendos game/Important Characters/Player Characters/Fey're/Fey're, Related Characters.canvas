@@ -1,1 +1,30 @@
-{}
+{
+	"nodes":[
+		{"id":"97d6015c2345c8be","type":"text","text":"His hobby is toying with adventures - Mostly adventure's ","x":-1380,"y":-318,"width":304,"height":231,"color":"5"},
+		{"id":"40c4f4780a05e7c8","type":"text","text":"Notes","x":-1353,"y":-492,"width":250,"height":60,"color":"5"},
+		{"id":"85b0e6cb5aadaf2e","type":"text","text":"The Great Litch Mekazzak","x":-1352,"y":-648,"width":250,"height":60,"color":"5"},
+		{"id":"0f4b27d912c3941a","type":"file","file":"PNG's/'The Great Litch' Mekazzak.png","x":-1000,"y":-662,"width":219,"height":400,"color":"5"},
+		{"id":"fec47779b2ba05cd","type":"file","file":"PNG's/Death Adder.png","x":300,"y":-608,"width":155,"height":232},
+		{"id":"42c8661ab3c63295","type":"file","file":"PNG's/Viper.jpg","x":269,"y":-87,"width":218,"height":218},
+		{"id":"0d96fe0948c65d01","type":"text","text":"Undead Summons","x":253,"y":-240,"width":250,"height":60},
+		{"id":"53138b9d5daa77a3","type":"text","text":"Viper","x":255,"y":257,"width":250,"height":60},
+		{"id":"ebcf733ca3e599be","type":"text","text":"Death Adder","x":253,"y":-740,"width":250,"height":60},
+		{"id":"a87e92e4fe6d38e3","type":"file","file":"PNG's/Echidna.jpg","x":20,"y":-586,"width":106,"height":188},
+		{"id":"550fe61a5e7cc0db","type":"text","text":"Echidna","x":-52,"y":-740,"width":250,"height":60},
+		{"id":"9b3c1dc55ffa1074","type":"file","file":"PNG's/Dahlia.png","x":669,"y":-601,"width":218,"height":218},
+		{"id":"8db7af167306fe27","type":"text","text":"Dahlia","x":653,"y":-740,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"16c4de1f6a4b8022","fromNode":"40c4f4780a05e7c8","fromSide":"bottom","toNode":"97d6015c2345c8be","toSide":"top"},
+		{"id":"5b4df6c41fa61610","fromNode":"40c4f4780a05e7c8","fromSide":"top","toNode":"85b0e6cb5aadaf2e","toSide":"bottom"},
+		{"id":"5d0ab6f0986c325b","fromNode":"0f4b27d912c3941a","fromSide":"left","toNode":"40c4f4780a05e7c8","toSide":"right"},
+		{"id":"ba16c21025f88c90","fromNode":"fec47779b2ba05cd","fromSide":"bottom","toNode":"0d96fe0948c65d01","toSide":"top"},
+		{"id":"50c868549dc6637e","fromNode":"9b3c1dc55ffa1074","fromSide":"bottom","toNode":"0d96fe0948c65d01","toSide":"right"},
+		{"id":"8137e9b1a24ef4b0","fromNode":"a87e92e4fe6d38e3","fromSide":"bottom","toNode":"0d96fe0948c65d01","toSide":"left"},
+		{"id":"c7e7e5a9bde0280e","fromNode":"0d96fe0948c65d01","fromSide":"bottom","toNode":"42c8661ab3c63295","toSide":"top"},
+		{"id":"ee176919b38468fb","fromNode":"42c8661ab3c63295","fromSide":"bottom","toNode":"53138b9d5daa77a3","toSide":"top"},
+		{"id":"26112234433a398f","fromNode":"9b3c1dc55ffa1074","fromSide":"top","toNode":"8db7af167306fe27","toSide":"bottom"},
+		{"id":"5d2b6186c2fe18d3","fromNode":"fec47779b2ba05cd","fromSide":"top","toNode":"ebcf733ca3e599be","toSide":"bottom"},
+		{"id":"7d7edb71cebfcb1f","fromNode":"a87e92e4fe6d38e3","fromSide":"top","toNode":"550fe61a5e7cc0db","toSide":"bottom"}
+	]
+}

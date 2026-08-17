@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"8a4c74697c611cc7","type":"file","file":"PNG's/Vainyr.jpg","x":-160,"y":-360,"width":129,"height":194,"color":"2"},
+		{"id":"60deb5bdf0577765","type":"text","text":"Vainyr","x":80,"y":-293,"width":250,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"fd4e81d5032df99a","fromNode":"8a4c74697c611cc7","fromSide":"right","toNode":"60deb5bdf0577765","toSide":"left"}
+	]
+}
