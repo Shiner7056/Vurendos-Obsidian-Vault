@@ -8,7 +8,7 @@ Sylvia does not wish to go back to her home town - This was due to her memories 
 
 Is apart of a big organisation - Named Hidden Promise - [[BlackMoon Infomation]]
 
-Sylvia was hired by Invari to be her body guard
+Sylvia was hired by Invari to be her body guard - Before she quit being her Bodyguard - It was used excuse for her to travel with Invari
 
 Could be the assassin - kills creatures/ people the same way the assassin does - She was
 
@@ -32,3 +32,5 @@ What the Crimson Legion Said: "What is this? Sylvia Valesong the _Blackmoon Assa
 Dating Detective Ashwin
 
 The reason Sylvia changed her calling card from what is was is because she did not want me to get angry over it (+ other reasons as well)
+
+The person who hired Sylvia as Renthiel Shardcaller - [[Side NPC's & Side Villians.canvas]]
