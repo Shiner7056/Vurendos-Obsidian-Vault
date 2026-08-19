@@ -30,3 +30,5 @@ Sylvia was the assassin but left the organisation so that she would get in conta
 What the Crimson Legion Said: "What is this? Sylvia Valesong the _Blackmoon Assassin_! And you brought friends~... You're all going to die here" - [[Tal'krizzar, the Crimson Predator.png]]
 
 Dating Detective Ashwin
+
+The reason Sylvia changed her calling card from what is was is because she did not want me to get angry over it (+ other reasons as well)
