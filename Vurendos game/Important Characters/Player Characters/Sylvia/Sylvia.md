@@ -1,7 +1,6 @@
 #Player [[Sylvia, Related Characters.canvas]]
 
-![[Sylvia.jpeg]]
-
+![[Sylvia - New art.png]]
 ## Notes
 Sylvia comes from Var'vel
 
@@ -12,6 +11,8 @@ Is apart of a big organisation - Named Hidden Promise - [[BlackMoon Infomation]]
 Sylvia was hired by Invari to be her body guard
 
 Could be the assassin - kills creatures/ people the same way the assassin does - She was
+
+[[Calling card]]
 
 Sylvia was paid to kill while she was apart of the Black Moon:
 [[Elliot Chevair - Noble]]

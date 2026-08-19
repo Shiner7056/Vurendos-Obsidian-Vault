@@ -13,4 +13,4 @@ Scared of spiders
 
 Realised  [[Conirutato, Demon Lord of Conspiracy.png]] from his capture by breaking Renthiel Shardcaller pendant
 
-Invari now owns him soul
+Invari now owns his soul

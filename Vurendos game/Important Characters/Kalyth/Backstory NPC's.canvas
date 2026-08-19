@@ -18,7 +18,9 @@
 		{"id":"19074f8c5166a292","type":"file","file":"PNG's/Kalyth - Armour.png","x":-1200,"y":-194,"width":301,"height":400},
 		{"id":"263bb623382db5cd","type":"file","file":"PNG's/Kalyth - No Armour.png","x":-2280,"y":-194,"width":356,"height":399},
 		{"id":"6c23f6651d1f5650","type":"file","file":"PNG's/Kalyth - No Armour - Art Change.png","x":-2302,"y":480,"width":400,"height":400},
-		{"id":"2c4aeea9a5b33237","type":"text","text":"Changed to this art","x":-1682,"y":650,"width":250,"height":60}
+		{"id":"2c4aeea9a5b33237","type":"text","text":"Changed to this art","x":-1682,"y":650,"width":250,"height":60},
+		{"id":"847ae3e5545f6f71","type":"file","file":"PNG's/Kalyth - Armour Art Change.png","x":-1239,"y":480,"width":380,"height":400},
+		{"id":"6150fbb530a26d07","x":-651,"y":650,"width":250,"height":60,"type":"text","text":"Changed to this art"}
 	],
 	"edges":[
 		{"id":"e03abe88b229f6f7","fromNode":"7f7edd8df8b1cb42","fromSide":"right","toNode":"ec23fc3ef7807bd7","toSide":"left"},
@@ -38,6 +40,8 @@
 		{"id":"0d4867ef04a38af8","fromNode":"f7c8ed3b298585d4","fromSide":"left","toNode":"263bb623382db5cd","toSide":"right"},
 		{"id":"f62bc71fb4507117","fromNode":"f7c8ed3b298585d4","fromSide":"right","toNode":"19074f8c5166a292","toSide":"left"},
 		{"id":"5c151bce621e2943","fromNode":"263bb623382db5cd","fromSide":"bottom","toNode":"6c23f6651d1f5650","toSide":"top"},
-		{"id":"9d511d9ede76c1d4","fromNode":"6c23f6651d1f5650","fromSide":"right","toNode":"2c4aeea9a5b33237","toSide":"left"}
+		{"id":"9d511d9ede76c1d4","fromNode":"6c23f6651d1f5650","fromSide":"right","toNode":"2c4aeea9a5b33237","toSide":"left"},
+		{"id":"1f139bcb230e2366","fromNode":"19074f8c5166a292","fromSide":"bottom","toNode":"847ae3e5545f6f71","toSide":"top"},
+		{"id":"11836643f3f5a0f0","fromNode":"847ae3e5545f6f71","fromSide":"right","toNode":"6150fbb530a26d07","toSide":"left"}
 	]
 }
