@@ -20,7 +20,7 @@
 		{"id":"6c23f6651d1f5650","type":"file","file":"PNG's/Kalyth - No Armour - Art Change.png","x":-2302,"y":480,"width":400,"height":400},
 		{"id":"2c4aeea9a5b33237","type":"text","text":"Changed to this art","x":-1682,"y":650,"width":250,"height":60},
 		{"id":"847ae3e5545f6f71","type":"file","file":"PNG's/Kalyth - Armour Art Change.png","x":-1239,"y":480,"width":380,"height":400},
-		{"id":"6150fbb530a26d07","x":-651,"y":650,"width":250,"height":60,"type":"text","text":"Changed to this art"}
+		{"id":"6150fbb530a26d07","type":"text","text":"Changed to this art","x":-651,"y":650,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"e03abe88b229f6f7","fromNode":"7f7edd8df8b1cb42","fromSide":"right","toNode":"ec23fc3ef7807bd7","toSide":"left"},

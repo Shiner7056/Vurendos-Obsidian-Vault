@@ -1,6 +1,6 @@
 #Kalyth  #Powerup
 
-**First power up** 
+## First power up
 You feel your devotion to Famis swell within you, as you know who shall guide you proper. Your Zweihander becomes a +1 weapon, you gain the extra attack feature. You then gain one of the following:
 
 **Blossom and Bloom** 
@@ -8,13 +8,13 @@ Whenever a creature is reduced to 0 Hit Points within 30ft, you may summon an Av
 
 ![[Avatar of Roses - character sheet (When Kalyth first got her as a summon).png]]
 
-**Second power up**
+## Second power up
 Medicus has chosen you to gain his favor himself, and he has put in a good word with his neice. Your Zweihander becomes a +2 weapon, and you gain a Supreme Potion of Healing. Every time you use it, it refills itself at the end of your next long rest. You then gain one of the following:
 
 **Floral Squire** 
 The Avatar of Roses gains class levels equal to half of your level (rounded up). It can take any class it wishes, and can multi-class so long as it meets the requirements to do so.
 
-**Third power up**
+## Third power up
 The Ruins have provided more avenues of understanding, and yet you can feel something terrible looming upon the horizon. However the Goddess of Famine knows that after the coming destruction shall come a great era of progress. Your Zweihander becomes a +3 weapon, and your Zweihander deals an additional 1d4 Radiant damage plus 1d4 Necrotic damage
 
 **Devour Decay** 

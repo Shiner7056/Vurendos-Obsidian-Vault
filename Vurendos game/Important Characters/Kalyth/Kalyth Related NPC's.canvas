@@ -1,6 +1,9 @@
 {
 	"nodes":[
 		{"id":"84bef9d601af0e06","type":"group","x":-389,"y":-386,"width":2221,"height":772,"color":"3","label":"Deity's"},
+		{"id":"9c33be6329fee154","type":"text","text":"[[List of Gods]]","x":393,"y":251,"width":250,"height":60},
+		{"id":"47cbd58ac701ec2b","type":"text","text":"Famis","x":143,"y":-156,"width":250,"height":60,"color":"#ffffff"},
+		{"id":"709d3b7c1338339a","type":"text","text":"Note","x":143,"y":48,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"7dcedf1ecba6316c","type":"file","file":"PNG's/AvatarofRoses.png","x":-668,"y":-308,"width":257,"height":323,"color":"4"},
 		{"id":"f41fde3fc8e595eb","type":"text","text":"Notes","x":-1057,"y":-262,"width":250,"height":60,"color":"4"},
 		{"id":"b7901bbd994a4add","type":"text","text":"Avatar of Roses","x":-1057,"y":-91,"width":250,"height":60,"color":"4"},
@@ -17,9 +20,6 @@
 		{"id":"2fde635bb2779b8a","type":"text","text":"God of the cycle, despair, starvation, devastation and ash","x":143,"y":-312,"width":250,"height":97,"color":"#ffffff"},
 		{"id":"d9fdaa87ccd82e8e","type":"text","text":"#Kalyth","x":-324,"y":-544,"width":250,"height":60},
 		{"id":"1643a1afefc1408d","type":"file","file":"PNG's/Famis.png","x":-257,"y":-283,"width":195,"height":314,"color":"#ffffff"},
-		{"id":"9c33be6329fee154","type":"text","text":"[[List of Gods]]","x":393,"y":251,"width":250,"height":60},
-		{"id":"47cbd58ac701ec2b","type":"text","text":"Famis","x":143,"y":-156,"width":250,"height":60,"color":"#ffffff"},
-		{"id":"709d3b7c1338339a","type":"text","text":"Note","x":143,"y":48,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"127344fdc517b6e4","type":"text","text":"Notes","x":576,"y":49,"width":250,"height":60,"color":"#484141"},
 		{"id":"f053e5c921039ef1","type":"text","text":"Gods are making their moves = Vindicta wanted to assemble the greatest celestials of the upper plains for a meeting (On the Ran'tal)\n\nMedicus promise to Kalyth \"Keep learning about Ran'tal and to keep my faith in Famis\"\n\n(The God's don't know anything on the Ran'tal or the Crimson Legion)","x":476,"y":-366,"width":450,"height":275,"color":"#484141"},
 		{"id":"a32271e7aa7130d6","type":"file","file":"PNG's/Medicus.png","x":1503,"y":-121,"width":309,"height":400,"color":"#484141"}
