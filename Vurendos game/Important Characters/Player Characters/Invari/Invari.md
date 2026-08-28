@@ -4,6 +4,8 @@
 
 
 ## Notes
+Physical Description:
+Gray skin, horns that curl slightly back, nails black and long, one eye blue the other covered by a eye patch covered in cataracs, slightly more formal attire than average,
 Invari comes from Antreath
 
 She owns an organisation - Barred Association Regional Assistance Korinthan Organized Syndicate - Merchant guild name
