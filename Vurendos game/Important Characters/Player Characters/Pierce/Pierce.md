@@ -18,4 +18,12 @@ Public records describe the wedding to have been a disaster. A massacre. Records
 
 The main reason Pierce was ruled out as a suspect was due to the relationship he had with Lord Kaleb as well as the many commendations he had acquired throughout his service to Ravenford.
 
-Pierce lead a witch hunt against the attacker at the wedding shortly after the wedding was cleaned 
+Pierce lead a witch hunt with against the a woman that is unnamed within Astelrath records. The records are filled with accounts of the names and titles of the men that followed and the records of those that had died by Pierces hands. All accounts of the deaths have no concrete evidence that Pierce killed his own men other than the fact that he admitted to killing them. 
+
+Astelrath records of the trial are filled with every line he said, every horror, every detail and every sin he had stated he committed. Though some of the details were blacked out.
+
+A prominent line within the report was how he told them he was possessed, he had no control of his actions. As well as the moment he realised the possession ended. How he sheathed the blade, how he felt hollow and how he wished he had been killed.
+
+It is stated that all of this was true as a ward of truth was placed onto him and it would have been impossible for him to lie under the conditions.
+
+The jury had specifically stated him as the guilty party, but that he was not beyond redemption. They allowed him to walk freely and he has the right to continue carrying weapons but he was barred from ever serving within Ravenford, Astelrath records describe it as a dishonourable discharge and the immediate termination of his service within Ravenford.
