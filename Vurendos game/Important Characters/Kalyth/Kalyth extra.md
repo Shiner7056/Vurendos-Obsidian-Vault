@@ -30,3 +30,5 @@
 -one especially noticeable scar across her lip
 -Very light freckles
 -Kalyth suffering a scar from Tal'Krizzar, the Crimson Predator; The scar is located across the right side of her face, charring her skin while faded from the healing sorceries applyed to the area the scar is still very visible - Whenever she trys to speak or swallows there will feel a tightness in the skin what will cause a moderate amount of pain
+
+![[Kalyth Extra.png]]
