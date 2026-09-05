@@ -135,3 +135,28 @@ Occurrence: X
 Result: X
 //
 
+
+## Prison
+//
+Runes:
+"And so our Sisters Blind"
+
+"They know not our Joys"
+
+"They know not our Feast"
+
+"So forever more, let us bless them"
+
+"Bless all with the joys of blood"
+
+"Bless all with the joys of hunger"
+
+"The joys of Famine and Feast"
+
+"Let us devour all who stand in our way"
+
+"Let us slay all those who try to run"
+
+"Let us be one in blood"
+//
+
