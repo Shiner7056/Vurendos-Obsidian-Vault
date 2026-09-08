@@ -3,6 +3,10 @@
 ![[Pierce Coronot.png]]
 
 ## Notes
+Pierces sword is what takes control of his body, he described it as making him feel like a passenger in his own body. The blade manifests fear and pain into itself, what is living within the blade.
+	The blade additionally seals souls within it. Every thing he has killed that has a soul is taken within the blade.
+
+Pierce said that the blade, what is called Shadespar, has claimed him as its vessel and that it can take control at basically any time gaining full autonomy of Pierce. - It possesses Pierce.
 
 
 ## Case Report
