@@ -18,7 +18,9 @@
 		{"id":"9ad7a4027841f128","type":"text","text":"[[Primal Ruins]]","x":562,"y":-308,"width":250,"height":60,"color":"6"},
 		{"id":"b1df6cf572adda23","type":"text","text":"Notes","x":853,"y":-496,"width":250,"height":60,"color":"6"},
 		{"id":"08503daf71740d5c","type":"text","text":"Afalri went insane due to sighing a deal with Alqi'vor to allow her to live 'forever' - not concreate on this\n","x":893,"y":-360,"width":420,"height":187,"color":"6"},
-		{"id":"966f51a80be2feaf","type":"file","file":"PNG's/Afalri.png","x":1473,"y":-466,"width":295,"height":400}
+		{"id":"966f51a80be2feaf","type":"file","file":"PNG's/Afalri.png","x":1473,"y":-466,"width":295,"height":400},
+		{"id":"3ed6bb2ce21979d4","type":"file","file":"PNG's/Ancient Construct.png","x":1926,"y":965,"width":400,"height":398},
+		{"id":"ff70dbc8f7fb89bc","type":"file","file":"PNG's/Ancient Warrior.png","x":1473,"y":800,"width":207,"height":400}
 	],
 	"edges":[
 		{"id":"53e021413747e00f","fromNode":"63bb2c8cab7c309c","fromSide":"top","toNode":"e50275c19a0ab270","toSide":"bottom"},
