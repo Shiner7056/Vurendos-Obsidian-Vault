@@ -167,4 +167,27 @@ The Prison is used to imprison specifically the Ran'tal who had gone 'feral'. Th
 
 ## War Temple
 //
+The left hand side of the war temple is a barracks, filled with a bunch of side rooms with multiple beds inside.
 
+At the end of the corridor there is a large training area.
+//
+
+//
+On the right hand side there is a few side rooms with alters and shrines that have clearly been destroyed.
+
+At the end of the corridor there is a large shrine something akin to a prayer room.
+//
+
+//
+Further upstairs on the large door in the centre of the temple there are large patches of rubble and debris across the stairs.
+
+Somewhere along the walls there is a gargantuan hole in the wall seemed to be created by something flying in.
+
+There is more large alters in the big central room, with one very large table.
+
+The table surged magical energy after Fey're inspected it. She very quickly repaired the table somehow. The table looks like it would be a war table where the Ran'tal planned war strategy's.
+
+The table after being mixed popped up with a massive map of the [[Old World.canvas]]. - From the map it shows invasions pockets from the Crimson Legion, the prison was taken and where we fought [[Tal'krizzar, the Crimson Predator.png]] was under quarantine being in the heart of the invasions.
+
+The map disappeared after a short time than re popped up with a map of the [[New World.canvas]]. - Working in real time to show the world.
+//
