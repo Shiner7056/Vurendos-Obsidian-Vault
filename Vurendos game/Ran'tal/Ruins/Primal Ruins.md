@@ -164,6 +164,7 @@ Runes:
 The Prison is used to imprison specifically the Ran'tal who had gone 'feral'. The Prison did not offer food or water forcing them to eat one another to survive, some of the cells had bite marks on the bars looking as if they were trying to escape from whatever nightmare they were in.
 //
 
+
+## War Temple
 //
-The Prison held so
 
