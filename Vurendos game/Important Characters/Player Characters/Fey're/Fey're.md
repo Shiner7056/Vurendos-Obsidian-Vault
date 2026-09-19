@@ -14,3 +14,5 @@ Fey're speech against Tal'krizzar - [[Fey're Speech]]
 Fey're is a dhampir and Mekazzak's disciple
 
 Fey're real father is a Baron within Akweriath
+
+Fey're wishes to become a lich

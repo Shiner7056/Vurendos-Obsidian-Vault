@@ -8,10 +8,10 @@
 		{"id":"7d2138abe6a122e9","type":"file","file":"PNG's/Crokian Thunderscale.png","x":-2592,"y":-345,"width":270,"height":400,"color":"3"},
 		{"id":"a57faf144abaeabe","type":"file","file":"PNG's/Crokain.png","x":-2103,"y":-700,"width":399,"height":299,"color":"3"},
 		{"id":"b827cd6edbe1a002","type":"file","file":"PNG's/Crokian Hunter.png","x":-2592,"y":-700,"width":400,"height":247,"color":"3"},
-		{"id":"0db1e03a1cf267fb","type":"text","text":"#Primal","x":-1004,"y":-221,"width":250,"height":60},
-		{"id":"636bc69f12b95377","type":"text","text":"[[Primal Infomation]]","x":-1004,"y":-16,"width":250,"height":60},
 		{"id":"9917d597a5bd8363","type":"text","text":"Ku'kar - Seer","x":-2609,"y":590,"width":250,"height":60,"color":"3"},
-		{"id":"757cd52205efbffc","type":"text","text":"Knows of the Ran'tal - Agreed to guide us to the ruins\nSaw movement in one of the ruins - they wore loosely draped cloths and robes","x":-2260,"y":590,"width":595,"height":151,"color":"3"}
+		{"id":"757cd52205efbffc","type":"text","text":"Knows of the Ran'tal - Agreed to guide us to the ruins\nSaw movement in one of the ruins - they wore loosely draped cloths and robes","x":-2260,"y":590,"width":595,"height":151,"color":"3"},
+		{"id":"0db1e03a1cf267fb","type":"text","text":"#Primal","x":-1004,"y":-221,"width":250,"height":60},
+		{"id":"636bc69f12b95377","type":"text","text":"[[Primal Infomation]]","x":-1004,"y":-16,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"faf32c4947a5a491","fromNode":"0db1e03a1cf267fb","fromSide":"bottom","toNode":"636bc69f12b95377","toSide":"top"},

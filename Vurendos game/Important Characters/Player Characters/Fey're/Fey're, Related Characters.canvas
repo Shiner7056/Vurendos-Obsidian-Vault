@@ -14,7 +14,7 @@
 		{"id":"9b3c1dc55ffa1074","type":"file","file":"PNG's/Dahlia.png","x":669,"y":-601,"width":218,"height":218},
 		{"id":"8db7af167306fe27","type":"text","text":"Dahlia","x":653,"y":-740,"width":250,"height":60},
 		{"id":"5047455b98c94bfd","type":"file","file":"PNG's/Echidna, New.png","x":-41,"y":-1260,"width":229,"height":400},
-		{"id":"93c83f7ef59dafca","x":269,"y":460,"width":225,"height":400,"type":"file","file":"PNG's/Viper, New.png"}
+		{"id":"93c83f7ef59dafca","type":"file","file":"PNG's/Viper, New.png","x":269,"y":460,"width":225,"height":400}
 	],
 	"edges":[
 		{"id":"16c4de1f6a4b8022","fromNode":"40c4f4780a05e7c8","fromSide":"bottom","toNode":"97d6015c2345c8be","toSide":"top"},

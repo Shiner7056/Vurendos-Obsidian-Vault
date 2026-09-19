@@ -323,11 +323,11 @@ Filed under the authority of the Astelrath Royal Court.
     
 - Lord Kaleb Estate Records — [REDACTED]
     
-- Wedding Massacre Investigation — FILE SEALED
+- Wedding Massacre Investigation — [FILE SEALED]
     
-- Coronot Trial Transcript — RESTRICTED
+- Coronot Trial Transcript — [RESTRICTED]
     
-- Magical Verification Report — RESTRICTED
+- Magical Verification Report — [RESTRICTED]
     
 
 **END OF REPORT**

@@ -18,4 +18,4 @@ Has a contract with three devils and Lillith == Warlock Patron
 
 What the Crimson Legion Said: "Invari Barakos, your goals are so noble, but I must ask. How far does your criminal empire _**REACH**_" - [[Tal'krizzar, the Crimson Predator.png]]
 
-Owns Pyres soul
+Owns [[Pyre]] soul
