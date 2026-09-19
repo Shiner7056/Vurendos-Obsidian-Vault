@@ -190,4 +190,18 @@ The table surged magical energy after Fey're inspected it. She very quickly repa
 The table after being mixed popped up with a massive map of the [[Old World.canvas]]. - From the map it shows invasions pockets from the Crimson Legion, the prison was taken and where we fought [[Tal'krizzar, the Crimson Predator.png]] was under quarantine being in the heart of the invasions.
 
 The map disappeared after a short time than re popped up with a map of the [[New World.canvas]]. - Working in real time to show the world.
+
+The map changes a second time to a rotation of the night sky, the sky has twenty different cracks, almost as if the sky was a window. Within the glass cracks there is a Crimson storms. These cracks was where the Crimson Legion invaded from.
+
+There was a dense population of these cracks over where Var'vella is. Possible location of the capital.
+
+Around the central room there is ruins and writing carved around the central room;
+
+"We shall do all we can and all we must"
+
+"We must defend our people no matter the cost."
+
+"We must defend our kind."
+
+"For Azena."
 //
