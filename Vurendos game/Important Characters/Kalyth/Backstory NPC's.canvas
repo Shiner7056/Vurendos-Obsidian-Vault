@@ -24,7 +24,9 @@
 		{"id":"e5a4232d955d6e01","type":"file","file":"PNG's/Letter from Nixie.png","x":-212,"y":-1457,"width":305,"height":400},
 		{"id":"36eace45329f3185","type":"text","text":"Emran have verified the letter, it is real however, it is extremely suspicious.","x":240,"y":-1452,"width":260,"height":92},
 		{"id":"491266597fae492f","type":"text","text":"Emran believes Nixie may be under the influence of something, but also maybe not as she is a pretty mentally formidable.","x":610,"y":-1679,"width":350,"height":99},
-		{"id":"4166b167644971dc","x":-190,"y":36,"width":260,"height":400,"type":"file","file":"PNG's/Kalyth's Zweihander.png"}
+		{"id":"4166b167644971dc","type":"file","file":"PNG's/Kalyth's Zweihander.png","x":-190,"y":36,"width":260,"height":400},
+		{"id":"f30dffc30a467004","type":"file","file":"PNG's/letter to Aldwin - pt 1.png","x":263,"y":160,"width":305,"height":400},
+		{"id":"c5c1cb0304db9e55","type":"file","file":"PNG's/letter to Aldwin - pt 2.png","x":640,"y":160,"width":305,"height":400}
 	],
 	"edges":[
 		{"id":"e03abe88b229f6f7","fromNode":"7f7edd8df8b1cb42","fromSide":"right","toNode":"ec23fc3ef7807bd7","toSide":"left"},
@@ -50,6 +52,8 @@
 		{"id":"ce679b4849a84297","fromNode":"7f7edd8df8b1cb42","fromSide":"top","toNode":"e5a4232d955d6e01","toSide":"bottom"},
 		{"id":"d31c7bdf34110bbe","fromNode":"e5a4232d955d6e01","fromSide":"right","toNode":"36eace45329f3185","toSide":"left"},
 		{"id":"d8cba48429a6d811","fromNode":"36eace45329f3185","fromSide":"right","toNode":"491266597fae492f","toSide":"left"},
-		{"id":"4e7b6a5aa069935a","fromNode":"a466103293c92ae9","fromSide":"bottom","toNode":"4166b167644971dc","toSide":"top"}
+		{"id":"4e7b6a5aa069935a","fromNode":"a466103293c92ae9","fromSide":"bottom","toNode":"4166b167644971dc","toSide":"top"},
+		{"id":"6841d80bd4addf82","fromNode":"f30dffc30a467004","fromSide":"right","toNode":"c5c1cb0304db9e55","toSide":"left"},
+		{"id":"945e8c429922aaba","fromNode":"a466103293c92ae9","fromSide":"bottom","toNode":"f30dffc30a467004","toSide":"top"}
 	]
 }

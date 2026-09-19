@@ -3,11 +3,14 @@
 		{"id":"e82f19db3c4f6038","type":"text","text":"Alqi'vor\n","x":331,"y":-531,"width":250,"height":60},
 		{"id":"e66aeeed4a4bd39e","type":"text","text":"Notes","x":331,"y":-416,"width":250,"height":60},
 		{"id":"f3d24f146702491c","type":"text","text":"He apparently does not want to kill the party.","x":715,"y":-457,"width":360,"height":142},
-		{"id":"0e71d6a646e2ba59","type":"file","file":"Alqi'vor.png","x":-600,"y":-600,"width":739,"height":429}
+		{"id":"0e71d6a646e2ba59","type":"file","file":"PNG's/Alqi'vor God of the Void.png","x":-600,"y":-600,"width":739,"height":429},
+		{"id":"547f561efe3e5b0c","type":"text","text":"[[Backstory NPC's.canvas]]","x":-2080,"y":-480,"width":250,"height":60},
+		{"id":"d5122da0e71afa40","type":"text","text":"NPC's","x":-1715,"y":-480,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"79aa951fa7be1794","fromNode":"0e71d6a646e2ba59","fromSide":"right","toNode":"e82f19db3c4f6038","toSide":"left"},
 		{"id":"88816fb058e2a239","fromNode":"e66aeeed4a4bd39e","fromSide":"right","toNode":"f3d24f146702491c","toSide":"left"},
-		{"id":"277c3736dbde7b51","fromNode":"0e71d6a646e2ba59","fromSide":"right","toNode":"e66aeeed4a4bd39e","toSide":"left"}
+		{"id":"277c3736dbde7b51","fromNode":"0e71d6a646e2ba59","fromSide":"right","toNode":"e66aeeed4a4bd39e","toSide":"left"},
+		{"id":"65334c1fc157f7d0","fromNode":"d5122da0e71afa40","fromSide":"left","toNode":"547f561efe3e5b0c","toSide":"right"}
 	]
 }
