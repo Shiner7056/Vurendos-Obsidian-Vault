@@ -29,7 +29,7 @@
 		{"id":"c5c1cb0304db9e55","type":"file","file":"PNG's/letter to Aldwin - pt 2.png","x":640,"y":160,"width":305,"height":400},
 		{"id":"c0121e13104f6983","type":"file","file":"PNG's/Kalyth - Armour Art Change V2.png","x":-1206,"y":1020,"width":314,"height":400},
 		{"id":"e46e6c4e972ee6c1","type":"text","text":"Changing to this instead","x":-651,"y":1190,"width":250,"height":60},
-		{"id":"dd1c68e8762e4654","type":"file","file":"Kalyth - Armour Art Change V2 - Token.png","x":-1882,"y":1020,"width":400,"height":400},
+		{"id":"dd1c68e8762e4654","type":"file","file":"PNG's/Kalyth - Armour Art Change V2 - Token.png","x":-1882,"y":1020,"width":400,"height":400},
 		{"id":"f150118762f98de1","type":"text","text":"Token","x":-2302,"y":1190,"width":250,"height":60}
 	],
 	"edges":[
