@@ -22,8 +22,9 @@
 		{"id":"847ae3e5545f6f71","type":"file","file":"PNG's/Kalyth - Armour Art Change.png","x":-1239,"y":480,"width":380,"height":400},
 		{"id":"6150fbb530a26d07","type":"text","text":"Changed to this art","x":-651,"y":650,"width":250,"height":60},
 		{"id":"e5a4232d955d6e01","type":"file","file":"PNG's/Letter from Nixie.png","x":-212,"y":-1457,"width":305,"height":400},
-		{"id":"36eace45329f3185","x":240,"y":-1452,"width":260,"height":92,"type":"text","text":"Emran have verified the letter, it is real however, it is extremely suspicious."},
-		{"id":"491266597fae492f","x":610,"y":-1679,"width":350,"height":99,"type":"text","text":"Emran believes Nixie may be under the influence of something, but also maybe not as she is a pretty mentally formidable."}
+		{"id":"36eace45329f3185","type":"text","text":"Emran have verified the letter, it is real however, it is extremely suspicious.","x":240,"y":-1452,"width":260,"height":92},
+		{"id":"491266597fae492f","type":"text","text":"Emran believes Nixie may be under the influence of something, but also maybe not as she is a pretty mentally formidable.","x":610,"y":-1679,"width":350,"height":99},
+		{"id":"4166b167644971dc","x":-190,"y":36,"width":260,"height":400,"type":"file","file":"PNG's/Kalyth's Zweihander.png"}
 	],
 	"edges":[
 		{"id":"e03abe88b229f6f7","fromNode":"7f7edd8df8b1cb42","fromSide":"right","toNode":"ec23fc3ef7807bd7","toSide":"left"},
@@ -48,6 +49,7 @@
 		{"id":"11836643f3f5a0f0","fromNode":"847ae3e5545f6f71","fromSide":"right","toNode":"6150fbb530a26d07","toSide":"left"},
 		{"id":"ce679b4849a84297","fromNode":"7f7edd8df8b1cb42","fromSide":"top","toNode":"e5a4232d955d6e01","toSide":"bottom"},
 		{"id":"d31c7bdf34110bbe","fromNode":"e5a4232d955d6e01","fromSide":"right","toNode":"36eace45329f3185","toSide":"left"},
-		{"id":"d8cba48429a6d811","fromNode":"36eace45329f3185","fromSide":"right","toNode":"491266597fae492f","toSide":"left"}
+		{"id":"d8cba48429a6d811","fromNode":"36eace45329f3185","fromSide":"right","toNode":"491266597fae492f","toSide":"left"},
+		{"id":"4e7b6a5aa069935a","fromNode":"a466103293c92ae9","fromSide":"bottom","toNode":"4166b167644971dc","toSide":"top"}
 	]
 }

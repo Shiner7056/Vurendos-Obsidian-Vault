@@ -34,3 +34,8 @@ Dating Detective Ashwin
 The reason Sylvia changed her calling card from what is was is because she did not want me to get angry over it (+ other reasons as well)
 
 The person who hired Sylvia as Renthiel Shardcaller - [[Side NPC's & Side Villians.canvas]]
+
+![[Sylvia's gift.png|167]]Sylvia gave Kalyth a longsword with an elvish inscription carved into the groove of the blade;
+-Al el nan al megil thháth mákês al kníghthlas al al sôûl thháth vêárs al yûsthly
+Translation:
+-It is not the sword that makes the knight, but the soul that bears it justly
