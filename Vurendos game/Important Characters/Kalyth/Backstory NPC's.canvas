@@ -26,7 +26,11 @@
 		{"id":"491266597fae492f","type":"text","text":"Emran believes Nixie may be under the influence of something, but also maybe not as she is a pretty mentally formidable.","x":610,"y":-1679,"width":350,"height":99},
 		{"id":"4166b167644971dc","type":"file","file":"PNG's/Kalyth's Zweihander.png","x":-190,"y":36,"width":260,"height":400},
 		{"id":"f30dffc30a467004","type":"file","file":"PNG's/letter to Aldwin - pt 1.png","x":263,"y":160,"width":305,"height":400},
-		{"id":"c5c1cb0304db9e55","type":"file","file":"PNG's/letter to Aldwin - pt 2.png","x":640,"y":160,"width":305,"height":400}
+		{"id":"c5c1cb0304db9e55","type":"file","file":"PNG's/letter to Aldwin - pt 2.png","x":640,"y":160,"width":305,"height":400},
+		{"id":"c0121e13104f6983","type":"file","file":"PNG's/Kalyth - Armour Art Change V2.png","x":-1206,"y":1020,"width":314,"height":400},
+		{"id":"e46e6c4e972ee6c1","type":"text","text":"Changing to this instead","x":-651,"y":1190,"width":250,"height":60},
+		{"id":"dd1c68e8762e4654","type":"file","file":"Kalyth - Armour Art Change V2 - Token.png","x":-1882,"y":1020,"width":400,"height":400},
+		{"id":"f150118762f98de1","type":"text","text":"Token","x":-2302,"y":1190,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"e03abe88b229f6f7","fromNode":"7f7edd8df8b1cb42","fromSide":"right","toNode":"ec23fc3ef7807bd7","toSide":"left"},
@@ -54,6 +58,10 @@
 		{"id":"d8cba48429a6d811","fromNode":"36eace45329f3185","fromSide":"right","toNode":"491266597fae492f","toSide":"left"},
 		{"id":"4e7b6a5aa069935a","fromNode":"a466103293c92ae9","fromSide":"bottom","toNode":"4166b167644971dc","toSide":"top"},
 		{"id":"6841d80bd4addf82","fromNode":"f30dffc30a467004","fromSide":"right","toNode":"c5c1cb0304db9e55","toSide":"left"},
-		{"id":"945e8c429922aaba","fromNode":"a466103293c92ae9","fromSide":"bottom","toNode":"f30dffc30a467004","toSide":"top"}
+		{"id":"945e8c429922aaba","fromNode":"a466103293c92ae9","fromSide":"bottom","toNode":"f30dffc30a467004","toSide":"top"},
+		{"id":"ac7505cd0d4f9223","fromNode":"847ae3e5545f6f71","fromSide":"bottom","toNode":"c0121e13104f6983","toSide":"top"},
+		{"id":"a8b409d607faa5cb","fromNode":"c0121e13104f6983","fromSide":"right","toNode":"e46e6c4e972ee6c1","toSide":"left"},
+		{"id":"ea2b883c0bf38a16","fromNode":"c0121e13104f6983","fromSide":"left","toNode":"dd1c68e8762e4654","toSide":"right"},
+		{"id":"8a58568da0c9367c","fromNode":"dd1c68e8762e4654","fromSide":"left","toNode":"f150118762f98de1","toSide":"right"}
 	]
 }
