@@ -1,11 +1,10 @@
 #Player [[Fey're, Related Characters.canvas]]
 
-![[Fey're.jpg]]
 
+![[Fey're - New Art.png|504]]
 # Notes
-Fey're is apart of a small community within Akweriath
-
-She was raised in the cloister of Histolarin
+Fey're was raised within a barony in Akweriath
+	-She was raised in the cloister of Histolarin
 
 What the Crimson Legion said: "Fey're... Are you self-conscious- worried about your vampiric form? Or is it your mentor, oh what was his name? _**MEKAZZAK**_. It would be a shame if something _happened_...." - [[Tal'krizzar, the Crimson Predator.png]]
 
@@ -15,7 +14,7 @@ Fey're is a dhampir and Mekazzak's disciple
 
 Fey're real father is a Baron within Akweriath
 
-Fey're wishes to become a lich
+Fey're wishes to become a lich - BIG L
 
 ## Fey’re — Dream Feeding
 
@@ -59,3 +58,7 @@ Fey're wishes to become a lich
 ### Important Character Note
 
 Fey’re **doesn't describe this with pride**. She feels genuine guilt and discomfort about what feeding does to people, particularly when fear is involved. Her hunger and instinct to consume are extremely difficult to resist, creating a conflict between **what she needs to survive and the harm that survival can cause**.
+
+## Fey're Art Dump
+![[Fey're - Gala.png]]
+![[Fey're - Old Art.jpg]]

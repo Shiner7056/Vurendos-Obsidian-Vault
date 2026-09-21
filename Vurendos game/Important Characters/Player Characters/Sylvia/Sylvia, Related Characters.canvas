@@ -16,10 +16,11 @@
 		{"id":"b3a9e767bc91a17d","type":"file","file":"PNG's/Zoranna.png","x":797,"y":360,"width":400,"height":400},
 		{"id":"5dd4458d5029ebce","type":"text","text":"Zoranna is Sylvia's deity - [[List of Gods]]","x":917,"y":-156,"width":346,"height":123},
 		{"id":"ce894c3e39bd45af","type":"text","text":"Zoranna","x":1021,"y":101,"width":250,"height":60},
-		{"id":"ac7d1b6304cf9290","x":1394,"y":-1520,"width":279,"height":400,"type":"file","file":"PNG's/Sylas.png"},
-		{"id":"342d134d8ea84927","x":823,"y":-1520,"width":267,"height":400,"type":"file","file":"PNG's/Elyndra.png"},
-		{"id":"1cbb63abe13a6e9c","x":757,"y":-706,"width":400,"height":400,"type":"file","file":"PNG's/Lirae.png"},
-		{"id":"a640f10feff5855a","x":1361,"y":-706,"width":346,"height":400,"type":"file","file":"PNG's/Virelle.png"}
+		{"id":"6a85ae263f31b942","type":"text","text":"Charmed Wood Elves","x":1144,"y":-960,"width":250,"height":60},
+		{"id":"1cbb63abe13a6e9c","type":"file","file":"PNG's/Lirae.png","x":811,"y":-706,"width":400,"height":400},
+		{"id":"342d134d8ea84927","type":"file","file":"PNG's/Elyndra.png","x":877,"y":-1520,"width":267,"height":400},
+		{"id":"ac7d1b6304cf9290","type":"file","file":"PNG's/Sylas.png","x":1394,"y":-1520,"width":279,"height":400},
+		{"id":"a640f10feff5855a","type":"file","file":"PNG's/Virelle.png","x":1361,"y":-706,"width":346,"height":400}
 	],
 	"edges":[
 		{"id":"d4b2ca5ed46c95f4","fromNode":"4d626ed0651a02eb","fromSide":"top","toNode":"9e908ef1a2a7f02a","toSide":"left"},
@@ -34,6 +35,10 @@
 		{"id":"b30a12c7aa025154","fromNode":"65021089e55be60f","fromSide":"right","toNode":"f23ae601cc1141b0","toSide":"left"},
 		{"id":"d584ba7bb770a97a","fromNode":"c3a97a462784c46a","fromSide":"right","toNode":"e3d0af74d177ddd8","toSide":"left"},
 		{"id":"e8fa0bfa4fa6e3d4","fromNode":"2a2881f6dbe3959a","fromSide":"right","toNode":"32d7fa148c1375bb","toSide":"bottom"},
-		{"id":"c5ef7557c01f7194","fromNode":"c3a97a462784c46a","fromSide":"right","toNode":"2a2881f6dbe3959a","toSide":"left"}
+		{"id":"c5ef7557c01f7194","fromNode":"c3a97a462784c46a","fromSide":"right","toNode":"2a2881f6dbe3959a","toSide":"left"},
+		{"id":"4d189578bd65c3e7","fromNode":"6a85ae263f31b942","fromSide":"left","toNode":"342d134d8ea84927","toSide":"bottom"},
+		{"id":"94ea5c49d726b65d","fromNode":"6a85ae263f31b942","fromSide":"left","toNode":"1cbb63abe13a6e9c","toSide":"top"},
+		{"id":"ad9197e2029baa7f","fromNode":"6a85ae263f31b942","fromSide":"right","toNode":"ac7d1b6304cf9290","toSide":"bottom"},
+		{"id":"deabec4130300432","fromNode":"6a85ae263f31b942","fromSide":"right","toNode":"a640f10feff5855a","toSide":"top"}
 	]
 }
