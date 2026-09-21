@@ -31,7 +31,7 @@
 		{"id":"e46e6c4e972ee6c1","type":"text","text":"Changing to this instead","x":-651,"y":1190,"width":250,"height":60},
 		{"id":"dd1c68e8762e4654","type":"file","file":"PNG's/Kalyth - Armour Art Change V2 - Token.png","x":-1882,"y":1020,"width":400,"height":400},
 		{"id":"f150118762f98de1","type":"text","text":"Token","x":-2302,"y":1190,"width":250,"height":60},
-		{"id":"a5eb589609fad6a1","x":1189,"y":296,"width":407,"height":128,"type":"text","text":"Aldwin did not even register the letter simply telling Emran to leave. The letter was delivered but no commend on any of the questions Kalyth posed were mentioned or responded to."}
+		{"id":"a5eb589609fad6a1","type":"text","text":"Aldwin did not even register the letter simply telling Emran to leave. The letter was delivered but no commend on any of the questions Kalyth posed were mentioned or responded to.","x":1189,"y":296,"width":407,"height":128}
 	],
 	"edges":[
 		{"id":"e03abe88b229f6f7","fromNode":"7f7edd8df8b1cb42","fromSide":"right","toNode":"ec23fc3ef7807bd7","toSide":"left"},
