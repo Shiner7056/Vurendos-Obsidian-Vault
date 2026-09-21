@@ -16,10 +16,10 @@
 		{"id":"b3a9e767bc91a17d","type":"file","file":"PNG's/Zoranna.png","x":797,"y":360,"width":400,"height":400},
 		{"id":"5dd4458d5029ebce","type":"text","text":"Zoranna is Sylvia's deity - [[List of Gods]]","x":917,"y":-156,"width":346,"height":123},
 		{"id":"ce894c3e39bd45af","type":"text","text":"Zoranna","x":1021,"y":101,"width":250,"height":60},
-		{"id":"ac7d1b6304cf9290","x":1394,"y":-1520,"width":279,"height":400,"type":"file","file":"Pasted image 20260919213302.png"},
-		{"id":"342d134d8ea84927","x":823,"y":-1520,"width":267,"height":400,"type":"file","file":"Pasted image 20260919213255.png"},
-		{"id":"1cbb63abe13a6e9c","x":757,"y":-706,"width":400,"height":400,"type":"file","file":"Pasted image 20260919213307.png"},
-		{"id":"a640f10feff5855a","x":1361,"y":-706,"width":346,"height":400,"type":"file","file":"Pasted image 20260919213314.png"}
+		{"id":"ac7d1b6304cf9290","x":1394,"y":-1520,"width":279,"height":400,"type":"file","file":"PNG's/Sylas.png"},
+		{"id":"342d134d8ea84927","x":823,"y":-1520,"width":267,"height":400,"type":"file","file":"PNG's/Elyndra.png"},
+		{"id":"1cbb63abe13a6e9c","x":757,"y":-706,"width":400,"height":400,"type":"file","file":"PNG's/Lirae.png"},
+		{"id":"a640f10feff5855a","x":1361,"y":-706,"width":346,"height":400,"type":"file","file":"PNG's/Virelle.png"}
 	],
 	"edges":[
 		{"id":"d4b2ca5ed46c95f4","fromNode":"4d626ed0651a02eb","fromSide":"top","toNode":"9e908ef1a2a7f02a","toSide":"left"},
