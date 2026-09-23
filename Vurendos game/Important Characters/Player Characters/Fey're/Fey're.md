@@ -1,7 +1,7 @@
 #Player [[Fey're, Related Characters.canvas]]
 
 
-![[Fey're - New Art.png|504]]
+![[Fey're - New Art.png|504]]![[Vurendos game/Important Characters/Player Characters/Fey're/Untitled Diagram.svg]]
 # Notes
 Fey're was raised within a barony in Akweriath
 	-She was raised in the cloister of Histolarin
