@@ -1,6 +1,6 @@
 #Crimson-Legion
 //
-Leader (Or?) - Orshal - A God - Was dethroned and banished from the Crimson Realm
+Leader (Or?) - Orshal - A God - Was dethroned and banished from the Crimson Realm - The new leader of the Crimson Legion is Akal’teroth
 
 Fire, lightning and blood magic
 
