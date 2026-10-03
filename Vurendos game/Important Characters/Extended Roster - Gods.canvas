@@ -5,7 +5,7 @@
 		{"id":"e82f19db3c4f6038","type":"text","text":"Alqi'vor\n","x":91,"y":-565,"width":250,"height":60,"color":"6"},
 		{"id":"e66aeeed4a4bd39e","type":"text","text":"Notes","x":91,"y":-450,"width":250,"height":60,"color":"6"},
 		{"id":"0e71d6a646e2ba59","type":"file","file":"PNG's/Alqi'vor God of the Void.png","x":-840,"y":-634,"width":739,"height":429,"color":"6"},
-		{"id":"f3d24f146702491c","type":"text","text":"He apparently does not want to kill the party\n\n\"It was... *Before* the obelisk but...\"\n\"Was it like... Directly before when.... I... What was it even again?\"\n\"FUCK How do I not remember???\"\n\nApparently the world split as a last ditch effort to get rid of the Crimson Legion\n","x":460,"y":-552,"width":485,"height":265,"color":"6"}
+		{"id":"f3d24f146702491c","type":"text","text":"He apparently does not want to kill the party\n\n\"It was... *Before* the obelisk but...\"\n\"Was it like... Directly before when.... I... What was it even again?\"\n\"FUCK How do I not remember???\"\nApparently the world split as a last ditch effort to get rid of the Crimson Legion\n","x":460,"y":-536,"width":485,"height":232,"color":"6"}
 	],
 	"edges":[
 		{"id":"79aa951fa7be1794","fromNode":"0e71d6a646e2ba59","fromSide":"right","toNode":"e82f19db3c4f6038","toSide":"left"},
