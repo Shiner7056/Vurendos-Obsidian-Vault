@@ -6,4 +6,6 @@ Door into the ruins:
 
 "The Weeping Lady Shall Show Us"
 
+Ruin fight:
+Within the ruins, Cult of Malum, Raven rot creatures ([[Raven Rot]]) and a single Assassin from the Hidden Promise / Black Moon ([[BlackMoon Infomation]]) fought us.
 
