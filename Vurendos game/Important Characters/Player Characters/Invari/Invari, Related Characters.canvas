@@ -26,10 +26,10 @@
 		{"id":"2c7bcf4ce04dbb00","type":"file","file":"PNG's/IceDevil.png","x":-99,"y":-577,"width":257,"height":135},
 		{"id":"bbdf2f9d65e1dbbf","type":"text","text":"Tai'sellias","x":-424,"y":-344,"width":250,"height":60,"color":"1"},
 		{"id":"81ba686e3618e5bb","type":"file","file":"Vicount Inskroth.png","x":1526,"y":40,"width":279,"height":400},
-		{"id":"43cef9ec8c777ab1","type":"text","text":"Notes","x":2000,"y":210,"width":250,"height":60},
-		{"id":"8c088059640a7ae6","type":"text","text":"","x":2440,"y":-82,"width":382,"height":245},
+		{"id":"43cef9ec8c777ab1","type":"text","text":"Notes","x":2005,"y":-110,"width":250,"height":60},
 		{"id":"58c8a02eed6881c7","type":"file","file":"Vicount Indarian.png","x":1515,"y":540,"width":300,"height":400},
-		{"id":"8e5413b293ec39df","x":2015,"y":390,"width":250,"height":60,"type":"text","text":"Notes"}
+		{"id":"8e5413b293ec39df","type":"text","text":"Notes","x":2015,"y":390,"width":250,"height":60},
+		{"id":"8c088059640a7ae6","type":"text","text":"Vicount Indarian is Inskroth's child.\nInskroth gave Sylvia a letter that allows her access to his estate and the ruins. Sylvia gave said letter to Kalyth.","x":1940,"y":100,"width":560,"height":183}
 	],
 	"edges":[
 		{"id":"92bbaa6a892ecac1","fromNode":"d053d8f83ff24ddb","fromSide":"right","toNode":"d8d4e44b081eaa97","toSide":"left"},
@@ -56,8 +56,8 @@
 		{"id":"a6203f72a89b665c","fromNode":"a9d85e46ec6a800b","fromSide":"left","toNode":"2c7bcf4ce04dbb00","toSide":"right"},
 		{"id":"e6c4f73b73978414","fromNode":"2c7bcf4ce04dbb00","fromSide":"left","toNode":"464bbe2e2fd2f715","toSide":"right"},
 		{"id":"bd7f471169ac1139","fromNode":"81ba686e3618e5bb","fromSide":"right","toNode":"43cef9ec8c777ab1","toSide":"left"},
-		{"id":"2544fba019591b66","fromNode":"43cef9ec8c777ab1","fromSide":"right","toNode":"8c088059640a7ae6","toSide":"left"},
 		{"id":"786d372aabbe1d32","fromNode":"58c8a02eed6881c7","fromSide":"right","toNode":"8e5413b293ec39df","toSide":"left"},
-		{"id":"faf8803063d1c737","fromNode":"8e5413b293ec39df","fromSide":"right","toNode":"8c088059640a7ae6","toSide":"bottom"}
+		{"id":"c687045ef311c293","fromNode":"43cef9ec8c777ab1","fromSide":"bottom","toNode":"8c088059640a7ae6","toSide":"top"},
+		{"id":"cc14cb3c711b1e27","fromNode":"8e5413b293ec39df","fromSide":"top","toNode":"8c088059640a7ae6","toSide":"bottom"}
 	]
 }
