@@ -15,7 +15,9 @@
 		{"id":"73fb5e7a37dcbcee","type":"file","file":"PNG's/Cult of Malum Magister.png","x":-74,"y":531,"width":148,"height":248,"color":"6"},
 		{"id":"525d0c0a227d8a3c","type":"file","file":"PNG's/Cult of Malum Magister.png","x":300,"y":1327,"width":148,"height":248,"color":"6"},
 		{"id":"8d3a7e10cc43a5d4","type":"file","file":"PNG's/Cult of Malum Warrior.png","x":-91,"y":320,"width":165,"height":170,"color":"6"},
-		{"id":"f56cf70b0e22d8db","type":"text","text":"[[Kalyth Related NPC's.canvas]]","x":-1096,"y":1240,"width":250,"height":60}
+		{"id":"f56cf70b0e22d8db","type":"text","text":"[[Kalyth Related NPC's.canvas]]","x":-1096,"y":1240,"width":250,"height":60},
+		{"id":"f6ad0b09c24ff564","type":"file","file":"Darksworn Adversary.png","x":1020,"y":685,"width":199,"height":238},
+		{"id":"3143181cb51dea3c","type":"file","file":"Darksworn Commandant.png","x":1020,"y":427,"width":199,"height":198}
 	],
 	"edges":[
 		{"id":"85b9950aa864d9bc","fromNode":"cfd4642975fe6b56","fromSide":"top","toNode":"a1b7f8d1b7cd3e36","toSide":"bottom"},
@@ -31,6 +33,8 @@
 		{"id":"e4ae1bc41660166d","fromNode":"690eb3f9145d0fea","fromSide":"left","toNode":"cf7f93df8fdfba80","toSide":"right"},
 		{"id":"0dd42c077da5f981","fromNode":"6a3c2774be18d4aa","fromSide":"left","toNode":"53f1939c20a4d026","toSide":"right"},
 		{"id":"913d9f3de2dfec1a","fromNode":"3f4f11b0323230ee","fromSide":"left","toNode":"8d3a7e10cc43a5d4","toSide":"right"},
-		{"id":"8a1379f5ecf9d518","fromNode":"c54bb66e618f2013","fromSide":"bottom","toNode":"f56cf70b0e22d8db","toSide":"top"}
+		{"id":"8a1379f5ecf9d518","fromNode":"c54bb66e618f2013","fromSide":"bottom","toNode":"f56cf70b0e22d8db","toSide":"top"},
+		{"id":"0fd3660d1a69793f","fromNode":"3f4f11b0323230ee","fromSide":"right","toNode":"3143181cb51dea3c","toSide":"left"},
+		{"id":"d9404509c0b0c169","fromNode":"3f4f11b0323230ee","fromSide":"right","toNode":"f6ad0b09c24ff564","toSide":"left"}
 	]
 }
