@@ -16,8 +16,8 @@
 		{"id":"525d0c0a227d8a3c","type":"file","file":"PNG's/Cult of Malum Magister.png","x":300,"y":1327,"width":148,"height":248,"color":"6"},
 		{"id":"8d3a7e10cc43a5d4","type":"file","file":"PNG's/Cult of Malum Warrior.png","x":-91,"y":320,"width":165,"height":170,"color":"6"},
 		{"id":"f56cf70b0e22d8db","type":"text","text":"[[Kalyth Related NPC's.canvas]]","x":-1096,"y":1240,"width":250,"height":60},
-		{"id":"f6ad0b09c24ff564","type":"file","file":"Darksworn Adversary.png","x":1020,"y":685,"width":199,"height":238},
-		{"id":"3143181cb51dea3c","type":"file","file":"Darksworn Commandant.png","x":1020,"y":427,"width":199,"height":198}
+		{"id":"f6ad0b09c24ff564","type":"file","file":"PNG's/Darksworn Adversary.png","x":1020,"y":685,"width":199,"height":238},
+		{"id":"3143181cb51dea3c","type":"file","file":"PNG's/Darksworn Commandant.png","x":1020,"y":427,"width":199,"height":198}
 	],
 	"edges":[
 		{"id":"85b9950aa864d9bc","fromNode":"cfd4642975fe6b56","fromSide":"top","toNode":"a1b7f8d1b7cd3e36","toSide":"bottom"},

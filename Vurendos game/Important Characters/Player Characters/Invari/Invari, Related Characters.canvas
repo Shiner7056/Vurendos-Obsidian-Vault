@@ -25,9 +25,9 @@
 		{"id":"90aeaa93ec93c8ae","type":"text","text":"Chain Devil","x":197,"y":-344,"width":250,"height":60,"color":"1"},
 		{"id":"2c7bcf4ce04dbb00","type":"file","file":"PNG's/IceDevil.png","x":-99,"y":-577,"width":257,"height":135},
 		{"id":"bbdf2f9d65e1dbbf","type":"text","text":"Tai'sellias","x":-424,"y":-344,"width":250,"height":60,"color":"1"},
-		{"id":"81ba686e3618e5bb","type":"file","file":"Vicount Inskroth.png","x":1526,"y":40,"width":279,"height":400},
+		{"id":"81ba686e3618e5bb","type":"file","file":"PNG's/Vicount Inskroth.png","x":1526,"y":40,"width":279,"height":400},
 		{"id":"43cef9ec8c777ab1","type":"text","text":"Notes","x":2005,"y":-110,"width":250,"height":60},
-		{"id":"58c8a02eed6881c7","type":"file","file":"Vicount Indarian.png","x":1515,"y":540,"width":300,"height":400},
+		{"id":"58c8a02eed6881c7","type":"file","file":"PNG's/Vicount Indarian.png","x":1515,"y":540,"width":300,"height":400},
 		{"id":"8e5413b293ec39df","type":"text","text":"Notes","x":2015,"y":390,"width":250,"height":60},
 		{"id":"8c088059640a7ae6","type":"text","text":"Vicount Indarian is Inskroth's child.\nInskroth gave Sylvia a letter that allows her access to his estate and the ruins. Sylvia gave said letter to Kalyth.","x":1940,"y":100,"width":560,"height":183}
 	],
