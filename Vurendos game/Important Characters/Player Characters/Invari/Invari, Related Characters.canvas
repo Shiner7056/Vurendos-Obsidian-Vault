@@ -24,7 +24,12 @@
 		{"id":"82ebc5403b9d8d68","type":"text","text":"Lillith","x":397,"y":-236,"width":250,"height":50,"color":"1"},
 		{"id":"90aeaa93ec93c8ae","type":"text","text":"Chain Devil","x":197,"y":-344,"width":250,"height":60,"color":"1"},
 		{"id":"2c7bcf4ce04dbb00","type":"file","file":"PNG's/IceDevil.png","x":-99,"y":-577,"width":257,"height":135},
-		{"id":"bbdf2f9d65e1dbbf","type":"text","text":"Tai'sellias","x":-424,"y":-344,"width":250,"height":60,"color":"1"}
+		{"id":"bbdf2f9d65e1dbbf","type":"text","text":"Tai'sellias","x":-424,"y":-344,"width":250,"height":60,"color":"1"},
+		{"id":"81ba686e3618e5bb","type":"file","file":"Vicount Inskroth.png","x":1526,"y":40,"width":279,"height":400},
+		{"id":"43cef9ec8c777ab1","type":"text","text":"Notes","x":2000,"y":210,"width":250,"height":60},
+		{"id":"8c088059640a7ae6","type":"text","text":"","x":2440,"y":-82,"width":382,"height":245},
+		{"id":"58c8a02eed6881c7","type":"file","file":"Vicount Indarian.png","x":1515,"y":540,"width":300,"height":400},
+		{"id":"8e5413b293ec39df","x":2015,"y":390,"width":250,"height":60,"type":"text","text":"Notes"}
 	],
 	"edges":[
 		{"id":"92bbaa6a892ecac1","fromNode":"d053d8f83ff24ddb","fromSide":"right","toNode":"d8d4e44b081eaa97","toSide":"left"},
@@ -49,6 +54,10 @@
 		{"id":"5e26db0a62a56365","fromNode":"1194471f3e68dbd2","fromSide":"right","toNode":"dc4fb6351e2e5943","toSide":"left"},
 		{"id":"e720d9ae113db165","fromNode":"a983079c43a9ec51","fromSide":"right","toNode":"50d7226fc542a257","toSide":"left"},
 		{"id":"a6203f72a89b665c","fromNode":"a9d85e46ec6a800b","fromSide":"left","toNode":"2c7bcf4ce04dbb00","toSide":"right"},
-		{"id":"e6c4f73b73978414","fromNode":"2c7bcf4ce04dbb00","fromSide":"left","toNode":"464bbe2e2fd2f715","toSide":"right"}
+		{"id":"e6c4f73b73978414","fromNode":"2c7bcf4ce04dbb00","fromSide":"left","toNode":"464bbe2e2fd2f715","toSide":"right"},
+		{"id":"bd7f471169ac1139","fromNode":"81ba686e3618e5bb","fromSide":"right","toNode":"43cef9ec8c777ab1","toSide":"left"},
+		{"id":"2544fba019591b66","fromNode":"43cef9ec8c777ab1","fromSide":"right","toNode":"8c088059640a7ae6","toSide":"left"},
+		{"id":"786d372aabbe1d32","fromNode":"58c8a02eed6881c7","fromSide":"right","toNode":"8e5413b293ec39df","toSide":"left"},
+		{"id":"faf8803063d1c737","fromNode":"8e5413b293ec39df","fromSide":"right","toNode":"8c088059640a7ae6","toSide":"bottom"}
 	]
 }
