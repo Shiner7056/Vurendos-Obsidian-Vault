@@ -37,6 +37,7 @@ Cultist: - Zone of Truth
     
 9. "I have run into THE adventuring group who has thwarted us _several times_. I expect to either die, or be allowed to live under context I don't return the cult. Personally, I would rather live."
 
+([[Raven Rot]])
 
 Commandant: - Speak with dead
 1. "Coniurato requires... A means.... To free... Him..."

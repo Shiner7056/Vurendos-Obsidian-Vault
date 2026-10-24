@@ -15,4 +15,4 @@ Raven Rot is demon born dieses that can be spread around from one large source o
 ![[Conirutato, Demon Lord of Conspiracy.png]] 
 Conirato, Demon Lord of Conspiracy, created raven rot.
 
-During the fight within the [[Varvella Ruins]] the initial Raven Rot birds were larger, significantly larger than they should have been. 
+During the fight within the [[Varvella Ruins]] the initial Raven Rot birds were larger, significantly larger than they should have been.  - From information given by a agent of the Cult of Malum, the larger ravens are nurtured to be that large, they are not variants and still are underbaked but have been nurtured to be that large. - Meaning that if given the chance all of the little ravens can grow to a size bigger than natural. 
