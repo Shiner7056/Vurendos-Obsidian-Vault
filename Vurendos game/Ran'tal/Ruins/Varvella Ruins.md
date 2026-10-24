@@ -68,7 +68,7 @@ Zoris:
 Gilbert Wetly - Zoris mentioned him without tell
 -Gilbert Wetly is out of the world.
 
-Zoris - 'The Ran'tal were an ancient civilization that predate himself and the world, they used to be spread far and wide throughout different realities that varied slightly different in form. A race destined for greatness, Orshal found something that terrified him attempting to make everyone forget them, so he killed them all.
+Zoris - The Ran'tal were an ancient civilization that predate himself and the world, they used to be spread far and wide throughout different realities that varied slightly different in form. A race destined for greatness, Orshal found something that terrified him attempting to make everyone forget them, so he killed them all.
 
 Orshal has never told anyone what he feared about the Ran'tal. Orshal gave a death to the Ran'tal that not even Zoris would have. 
 
