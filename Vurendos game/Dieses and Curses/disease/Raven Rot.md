@@ -14,3 +14,5 @@ Raven Rot is demon born dieses that can be spread around from one large source o
 
 ![[Conirutato, Demon Lord of Conspiracy.png]] 
 Conirato, Demon Lord of Conspiracy, created raven rot.
+
+During the fight within the [[Varvella Ruins]] the initial Raven Rot birds were larger, significantly larger than they should have been. 
