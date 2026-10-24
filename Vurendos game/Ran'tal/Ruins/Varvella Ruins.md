@@ -75,6 +75,6 @@ Zoris was angry to make someone forget another, he thought it was impressive tha
 
 Zoris believe that the Ran'tal were all wiped out.
 
-Zoris will not make another move against Vurastis unless he has a good reason to do so.
+Zoris will not make another move against Vurendos unless he has a good reason to do so.
 
 While the Crimson Legion has attempted to modernize they still remain old fashion in their ways. - They still remain a threat to the party. 
