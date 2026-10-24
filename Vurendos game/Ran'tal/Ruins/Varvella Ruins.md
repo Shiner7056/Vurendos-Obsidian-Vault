@@ -48,4 +48,33 @@ Commandant: - Speak with dead
 Observatory telescope: 
 The Ran'tal made the observatory to scry beyond what the normal eye can see.
 
-The telescope was only just powerful enough to see what was beyond the constellations. It can only be used three times and has already been used twice. The Cult of Malum, 
+The telescope was only just powerful enough to see what was beyond the constellations. It can only be used three times and has already been used twice. 
+
+We decided to use the telescope to look into the Cat constellation.
+A spell scroll appeared and read:
+"We shall not forget you great master"
+"Like how you shall not forget us"
+"Come forth to speak with us"
+"To speak of the ages"
+"To speak of you"
+"To speak of us"
+
+The ground around us appeared with a pox like ash - We have summoned the plaguari the legion of Zoris the God of pox.
+![[Banner of the Plaguari.png|293]]
+![[Zoris the God of plague and death.png|511]]
+
+Zoris:
+Gilbert Wetly - Zoris mentioned him without tell
+-Gilbert Wetly is out of the world.
+
+Zoris - 'The Ran'tal were an ancient civilization that predate himself and the world, they used to be spread far and wide throughout different realities that varied slightly different in form. A race destined for greatness, Orshal found something that terrified him attempting to make everyone forget them, so he killed them all.
+
+Orshal has never told anyone what he feared about the Ran'tal. Orshal gave a death to the Ran'tal that not even Zoris would have. 
+
+Zoris was angry to make someone forget another, he thought it was impressive that the Ran'tal naturally occurred as far as they did. 
+
+Zoris believe that the Ran'tal were all wiped out.
+
+Zoris will not make another move against Vurastis unless he has a good reason to do so.
+
+While the Crimson Legion has attempted to modernize they still remain old fashion in their ways. - They still remain a threat to the party. 
