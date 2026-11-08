@@ -2,12 +2,6 @@
 	"nodes":[
 		{"id":"af5c6d0df391b8b2","type":"group","x":-570,"y":-720,"width":3050,"height":1358,"color":"2","label":"Side NPC's"},
 		{"id":"91a9f560723b96bc","type":"group","x":-570,"y":-2732,"width":2373,"height":1381,"color":"1","label":"Side Villians"},
-		{"id":"98a26f4a60c9232a","type":"file","file":"PNG's/Magister Devan.png","x":-550,"y":-2246,"width":373,"height":400,"color":"1"},
-		{"id":"c01eb8d12aa351b1","type":"text","text":"[[Backstory NPC's.canvas]]","x":-1485,"y":-1102,"width":250,"height":60},
-		{"id":"641a43d42d76a8c6","type":"text","text":"NPC's","x":-1120,"y":-1102,"width":250,"height":60},
-		{"id":"4fbdc09f0329f28f","type":"text","text":"Liberian in Astelrath","x":-550,"y":-150,"width":250,"height":60,"color":"#1e389f"},
-		{"id":"285d9d3bdb8dde7d","type":"text","text":"Kenku Informant","x":-450,"y":-1801,"width":250,"height":60,"color":"#490070"},
-		{"id":"8f0c5b5c981d39a8","type":"text","text":"Mistiria Everbloom","x":-550,"y":0,"width":250,"height":60,"color":"#1e389f"},
 		{"id":"0cb06a3fe5860b43","type":"file","file":"PNG's/Renthiel Shardcaller.png","x":251,"y":-500,"width":255,"height":400,"color":"5"},
 		{"id":"64975fd4e4821ba3","type":"text","text":"Notes","x":659,"y":-160,"width":250,"height":60,"color":"5"},
 		{"id":"8efebd06bf085c7e","type":"text","text":"Renthiel Shardcaller","x":574,"y":-274,"width":250,"height":60,"color":"5"},
@@ -43,7 +37,13 @@
 		{"id":"050c2d9e70174bf6","type":"text","text":"Magister Devan\n","x":26,"y":-2076,"width":250,"height":60,"color":"1"},
 		{"id":"3e0c5d902ee72406","type":"text","text":"Notes","x":193,"y":-1801,"width":250,"height":60,"color":"#490070"},
 		{"id":"bbbd37fdc24087ae","type":"text","text":"[[Raven Rot]]","x":193,"y":-1906,"width":250,"height":60,"color":"#490070"},
-		{"id":"bf1682878ff1fca4","type":"text","text":"Magister in Jiothal","x":398,"y":-2076,"width":250,"height":60,"color":"1"}
+		{"id":"bf1682878ff1fca4","type":"text","text":"Magister in Jiothal","x":398,"y":-2076,"width":250,"height":60,"color":"1"},
+		{"id":"98a26f4a60c9232a","type":"file","file":"PNG's/Magister Devan.png","x":-550,"y":-2246,"width":373,"height":400,"color":"1"},
+		{"id":"c01eb8d12aa351b1","type":"text","text":"[[Backstory NPC's.canvas]]","x":-1485,"y":-1102,"width":250,"height":60},
+		{"id":"641a43d42d76a8c6","type":"text","text":"NPC's","x":-1120,"y":-1102,"width":250,"height":60},
+		{"id":"4fbdc09f0329f28f","type":"text","text":"Liberian in Astelrath","x":-550,"y":-150,"width":250,"height":60,"color":"#1e389f"},
+		{"id":"8f0c5b5c981d39a8","type":"text","text":"Mistiria Everbloom","x":-550,"y":0,"width":250,"height":60,"color":"#1e389f"},
+		{"id":"285d9d3bdb8dde7d","type":"text","text":"Kenku Informant","x":-450,"y":-1801,"width":250,"height":60,"color":"#490070"}
 	],
 	"edges":[
 		{"id":"12333b079d574ab0","fromNode":"98a26f4a60c9232a","fromSide":"right","toNode":"050c2d9e70174bf6","toSide":"left"},
