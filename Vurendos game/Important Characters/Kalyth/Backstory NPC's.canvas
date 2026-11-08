@@ -33,7 +33,7 @@
 		{"id":"f150118762f98de1","type":"text","text":"Token","x":-2302,"y":1190,"width":250,"height":60},
 		{"id":"a5eb589609fad6a1","type":"text","text":"Aldwin did not even register the letter simply telling Emran to leave. The letter was delivered but no commend on any of the questions Kalyth posed were mentioned or responded to.","x":1189,"y":296,"width":407,"height":128},
 		{"id":"8d2368dbd21fd115","type":"file","file":"PNG's/Letter to Valrus.png","x":1071,"y":-1500,"width":305,"height":400},
-		{"id":"2bc21d208dcee49b","x":1576,"y":-1650,"width":264,"height":90,"type":"text","text":"The letter like the one that was sent to Aldwin was ignored."}
+		{"id":"2bc21d208dcee49b","type":"text","text":"The letter like the one that was sent to Aldwin was ignored.","x":1576,"y":-1650,"width":264,"height":90}
 	],
 	"edges":[
 		{"id":"e03abe88b229f6f7","fromNode":"7f7edd8df8b1cb42","fromSide":"right","toNode":"ec23fc3ef7807bd7","toSide":"left"},

@@ -6,20 +6,21 @@
 -I like to ensure that I am fair and just ensuring fair treatment
 
 **Bonds:**
--Astelraths views on slavery should be not be an exception but a standard.
+-Astelraths views on slavery should be not be an exception but a norm.
 -My mentors taught me everything I know and I appreciate everything they have done for me.
 
 **Personality Traits:**
 -I find comfort in my prayers and rituals.
 -I try to keep myself serious at all time, my actions do not only represent myself.
--Hates being the center of attention.
+-Hates being the centre of attention.
 
 **Flaws:**
--I am easy to anger when insulting my family or Astelrath.
+-I am easy to 'anger' when insulting my family or Astelrath.
 -She has a fear of leadership. - What leads to an overcompensation of needing to be strong so she can feel like she has worth.
 -Feels worthless at times.
 -Believes it is better to be seen and not heard.
 -Fear of heights.
+-Gets easily sea sick.
 -Very energetic and happy drunk.
 
 **Character description:**
