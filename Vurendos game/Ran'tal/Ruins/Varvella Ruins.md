@@ -42,7 +42,7 @@ Cultist: - Zone of Truth
 Commandant: - Speak with dead
 1. "Coniurato requires... A means.... To free... Him..."
     
-2. _He goes on a brief 5 minute tangent about his life, and how it went downhill, but he found his way through violence. Which is why he thinks Caedes is super fucking cool._
+2. He goes on a brief 5 minute tangent about his life, and how it went downhill, but he found his way through violence. Which is why he thinks Caedes is super fucking cool.
     
 3. "It is his duty... To free him..."
 
@@ -60,13 +60,13 @@ A spell scroll appeared and read:
 "To speak of you"
 "To speak of us"
 
-The ground around us appeared with a pox like ash - We have summoned the plaguari the legion of Zoris the God of pox.
+The ground around us appeared with a pox like ash - We have summoned the plaguari the legion of Zoris the God of Pox, Plague, and Death.
 ![[Banner of the Plaguari.png|293]]
 ![[Zoris the God of plague and death.png|511]]
 
 Zoris:
-Gilbert Wetly - Zoris mentioned him without tell
--Gilbert Wetly is out of the world.
+Gilbert Wheatley - Zoris mentioned him without tell
+-Gilbert Wheatley is out of the world.
 
 Zoris - The Ran'tal were an ancient civilization that predate himself and the world, they used to be spread far and wide throughout different realities that varied slightly different in form. A race destined for greatness, Orshal found something that terrified him attempting to make everyone forget them, so he killed them all.
 

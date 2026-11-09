@@ -55,4 +55,5 @@ Links:
 [[Jiothal Ruins]]
 [[Underdark Ruins]]
 [[Solar Isles]]
+[[Varvella Ruins]]
 [[Old World.canvas]]
