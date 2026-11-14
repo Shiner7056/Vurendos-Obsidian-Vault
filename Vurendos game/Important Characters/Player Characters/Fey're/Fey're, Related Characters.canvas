@@ -16,7 +16,9 @@
 		{"id":"8db7af167306fe27","type":"text","text":"Dahlia","x":580,"y":-740,"width":250,"height":60},
 		{"id":"9b3c1dc55ffa1074","type":"file","file":"PNG's/Dahlia.png","x":596,"y":-601,"width":218,"height":218},
 		{"id":"a75f0d59b501582c","type":"text","text":"Moray","x":880,"y":-740,"width":250,"height":60},
-		{"id":"c4c5752edd2f5bbd","type":"file","file":"PNG's/Moray.png","x":905,"y":-640,"width":200,"height":356}
+		{"id":"c4c5752edd2f5bbd","type":"file","file":"PNG's/Moray.png","x":905,"y":-640,"width":200,"height":356},
+		{"id":"977454daaa73ecbd","type":"file","file":"Cassiel Neven Blightveil.png","x":-1119,"y":317,"width":229,"height":400},
+		{"id":"ebd2d1cf69a0776b","x":-890,"y":800,"width":212,"height":400,"type":"file","file":"Doctor Teledonis.png"}
 	],
 	"edges":[
 		{"id":"16c4de1f6a4b8022","fromNode":"40c4f4780a05e7c8","fromSide":"bottom","toNode":"97d6015c2345c8be","toSide":"top"},
