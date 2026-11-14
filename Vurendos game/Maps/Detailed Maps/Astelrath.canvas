@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"9806d4b67422f411","type":"file","file":"Astelrath - Detailed Map.png","x":-360,"y":-120,"width":964,"height":723},
+		{"id":"9806d4b67422f411","type":"file","file":"PNG's/Astelrath - Detailed Map.png","x":-360,"y":-120,"width":964,"height":723},
 		{"id":"c0a95a7af5c88357","x":-712,"y":211,"width":250,"height":60,"type":"text","text":"[[new world.png]]"},
 		{"id":"a5b158b7acac7365","x":-710,"y":46,"width":250,"height":60,"type":"text","text":"#Maps"}
 	],
