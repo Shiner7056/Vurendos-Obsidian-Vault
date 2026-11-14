@@ -22,8 +22,8 @@
 		{"id":"24f15e31330f701d","type":"text","text":"Doctor Teledonis","x":-578,"y":374,"width":250,"height":60},
 		{"id":"4e1b2e35d7348669","type":"text","text":"Notes","x":-1250,"y":501,"width":250,"height":60},
 		{"id":"ebd2d1cf69a0776b","type":"file","file":"Doctor Teledonis.png","x":-608,"y":614,"width":212,"height":400},
-		{"id":"59026e91b3dd0746","type":"text","text":"","x":-1323,"y":692,"width":396,"height":245},
-		{"id":"abdb14987d03f13e","x":-709,"y":1140,"width":415,"height":194,"type":"text","text":""}
+		{"id":"59026e91b3dd0746","type":"text","text":"Cassiel Neven is Fey're's father.\n\nDoctor Teledonis is the physician for house Blightveil.\n\nKalyth was kicked out of house Blightveil due to the allegations against her. ","x":-1323,"y":692,"width":396,"height":248},
+		{"id":"abdb14987d03f13e","x":-816,"y":1140,"width":629,"height":180,"type":"text","text":"The Doctor informed Kalyth of a cure for Raven Rot. He believes it is important to treat the disease before any form of therapy is conducted.\n\nDoes not believe their could possible be any form of conspiracy in Akweriath. \n\nTold Kalyth that her divine intervention has caused a mass devastation in the south of Vurastris."}
 	],
 	"edges":[
 		{"id":"16c4de1f6a4b8022","fromNode":"40c4f4780a05e7c8","fromSide":"bottom","toNode":"97d6015c2345c8be","toSide":"top"},
